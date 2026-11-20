@@ -1,0 +1,138 @@
+{
+  "report_id": "R0137",
+  "patient_id": "MF-1016",
+  "patient_name": "Aarav Patel",
+  "age": 46,
+  "sex": "F",
+  "date": "2025-10-16",
+  "date_text": "16-Oct-2025",
+  "bbox_date": [
+    1320,
+    337,
+    1534,
+    367
+  ],
+  "lab": "Medilink Clinical Lab",
+  "template": "B",
+  "variant": "scan",
+  "image": "R0137.jpg",
+  "fields": [
+    {
+      "code": "WBC",
+      "name": "Total Leucocyte Count",
+      "value": "13900",
+      "unit": "cells/uL",
+      "ref": "4000 - 11000",
+      "flag": "H",
+      "bbox_value": [
+        713,
+        509,
+        822,
+        536
+      ],
+      "bbox_row": [
+        123,
+        495,
+        1512,
+        558
+      ]
+    },
+    {
+      "code": "CREATININE",
+      "name": "Creatinine",
+      "value": "2.54",
+      "unit": "mg/dL",
+      "ref": "0.7 - 1.3",
+      "flag": "H",
+      "bbox_value": [
+        712,
+        573,
+        789,
+        600
+      ],
+      "bbox_row": [
+        122,
+        559,
+        1423,
+        620
+      ]
+    },
+    {
+      "code": "SGPT",
+      "name": "ALT",
+      "value": "70",
+      "unit": "U/L",
+      "ref": "7 - 56",
+      "flag": "H",
+      "bbox_value": [
+        711,
+        637,
+        754,
+        663
+      ],
+      "bbox_row": [
+        120,
+        624,
+        1379,
+        680
+      ]
+    },
+    {
+      "code": "TOTAL_CHOLESTEROL",
+      "name": "Total Cholesterol",
+      "value": "146",
+      "unit": "mg/dL",
+      "ref": "< 200",
+      "flag": "",
+      "bbox_value": [
+        709,
+        701,
+        775,
+        727
+      ],
+      "bbox_row": [
+        119,
+        687,
+        1384,
+        748
+      ]
+    },
+    {
+      "code": "UREA",
+      "name": "Blood Urea",
+      "value": "11",
+      "unit": "mg/dL",
+      "ref": "15 - 40",
+      "flag": "L",
+      "bbox_value": [
+        708,
+        765,
+        751,
+        791
+      ],
+      "bbox_row": [
+        118,
+        751,
+        1398,
+        812
+      ]
+    }
+  ],
+  "lines": [
+    "Medilink Clinical Lab",
+    "Department of Laboratory Medicine",
+    "Patient Name: Aarav Patel",
+    "Patient ID: MF-1016",
+    "Age/Sex: 46 Y / F",
+    "Collection Date : 16-Oct-2025",
+    "Test Result Flag Unit Reference Range",
+    "Total Leucocyte Count 13900 H cells/uL 4000 - 11000",
+    "Creatinine 2.54 H mg/dL 0.7 - 1.3",
+    "ALT 70 H U/L 7 - 56",
+    "Total Cholesterol 146 mg/dL < 200",
+    "Blood Urea 11 L mg/dL 15 - 40",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1016-2025-10-16-Medilink Clinical Lab"
+}

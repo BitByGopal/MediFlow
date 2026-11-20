@@ -1,0 +1,138 @@
+{
+  "report_id": "R0079",
+  "patient_id": "MF-1009",
+  "patient_name": "Meera Verma",
+  "age": 54,
+  "sex": "F",
+  "date": "2025-06-25",
+  "date_text": "25-Jun-2025",
+  "bbox_date": [
+    1303,
+    327,
+    1513,
+    359
+  ],
+  "lab": "Sunrise Diagnostics",
+  "template": "B",
+  "variant": "clean",
+  "image": "R0079.png",
+  "fields": [
+    {
+      "code": "HBA1C",
+      "name": "Glycated Hemoglobin",
+      "value": "8.7",
+      "unit": "%",
+      "ref": "4.0 - 5.6",
+      "flag": "H",
+      "bbox_value": [
+        700,
+        512,
+        754,
+        537
+      ],
+      "bbox_row": [
+        110,
+        511,
+        1411,
+        544
+      ]
+    },
+    {
+      "code": "VITAMIN_D",
+      "name": "Vitamin D (25-OH)",
+      "value": "29.3",
+      "unit": "ng/mL",
+      "ref": "30 - 100",
+      "flag": "L",
+      "bbox_value": [
+        700,
+        576,
+        776,
+        601
+      ],
+      "bbox_row": [
+        109,
+        575,
+        1411,
+        608
+      ]
+    },
+    {
+      "code": "SGPT",
+      "name": "SGPT",
+      "value": "52",
+      "unit": "U/L",
+      "ref": "7 - 56",
+      "flag": "",
+      "bbox_value": [
+        700,
+        640,
+        743,
+        665
+      ],
+      "bbox_row": [
+        110,
+        640,
+        1368,
+        668
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "Fasting Blood Sugar",
+      "value": "208",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "H",
+      "bbox_value": [
+        700,
+        704,
+        765,
+        729
+      ],
+      "bbox_row": [
+        110,
+        703,
+        1411,
+        736
+      ]
+    },
+    {
+      "code": "TOTAL_CHOLESTEROL",
+      "name": "Serum Cholesterol",
+      "value": "148",
+      "unit": "mg/dL",
+      "ref": "< 200",
+      "flag": "",
+      "bbox_value": [
+        700,
+        768,
+        765,
+        793
+      ],
+      "bbox_row": [
+        110,
+        767,
+        1374,
+        800
+      ]
+    }
+  ],
+  "lines": [
+    "Sunrise Diagnostics",
+    "Department of Laboratory Medicine",
+    "Patient Name: Meera Verma",
+    "Patient ID: MF-1009",
+    "Age/Sex: 54 Y / F",
+    "Collection Date : 25-Jun-2025",
+    "Test Result Flag Unit Reference Range",
+    "Glycated Hemoglobin 8.7 H % 4.0 - 5.6",
+    "Vitamin D (25-OH) 29.3 L ng/mL 30 - 100",
+    "SGPT 52 U/L 7 - 56",
+    "Fasting Blood Sugar 208 H mg/dL 70 - 100",
+    "Serum Cholesterol 148 mg/dL < 200",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1009-2025-06-25-Sunrise Diagnostics"
+}

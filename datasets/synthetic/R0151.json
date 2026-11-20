@@ -1,0 +1,159 @@
+{
+  "report_id": "R0151",
+  "patient_id": "MF-1017",
+  "patient_name": "Kavya Menon",
+  "age": 38,
+  "sex": "F",
+  "date": "2026-01-10",
+  "date_text": "10-Jan-2026",
+  "bbox_date": [
+    1303,
+    327,
+    1512,
+    359
+  ],
+  "lab": "Medilink Clinical Lab",
+  "template": "B",
+  "variant": "clean",
+  "image": "R0151.png",
+  "fields": [
+    {
+      "code": "UREA",
+      "name": "Blood Urea",
+      "value": "71",
+      "unit": "mg/dL",
+      "ref": "15 - 40",
+      "flag": "H",
+      "bbox_value": [
+        700,
+        512,
+        743,
+        537
+      ],
+      "bbox_row": [
+        110,
+        511,
+        1390,
+        544
+      ]
+    },
+    {
+      "code": "PLATELETS",
+      "name": "Platelet Count",
+      "value": "1.20",
+      "unit": "lakh/uL",
+      "ref": "1.5 - 4.5",
+      "flag": "L",
+      "bbox_value": [
+        700,
+        576,
+        776,
+        601
+      ],
+      "bbox_row": [
+        110,
+        575,
+        1411,
+        604
+      ]
+    },
+    {
+      "code": "VITAMIN_D",
+      "name": "Vitamin D (25-OH)",
+      "value": "44.6",
+      "unit": "ng/mL",
+      "ref": "30 - 100",
+      "flag": "",
+      "bbox_value": [
+        700,
+        640,
+        776,
+        665
+      ],
+      "bbox_row": [
+        109,
+        639,
+        1411,
+        672
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "Fasting Blood Glucose",
+      "value": "103",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "H",
+      "bbox_value": [
+        700,
+        704,
+        765,
+        729
+      ],
+      "bbox_row": [
+        110,
+        703,
+        1411,
+        736
+      ]
+    },
+    {
+      "code": "HBA1C",
+      "name": "HbA1c",
+      "value": "9.1",
+      "unit": "%",
+      "ref": "4.0 - 5.6",
+      "flag": "H",
+      "bbox_value": [
+        700,
+        768,
+        754,
+        793
+      ],
+      "bbox_row": [
+        110,
+        767,
+        1411,
+        793
+      ]
+    },
+    {
+      "code": "WBC",
+      "name": "WBC Count",
+      "value": "13000",
+      "unit": "cells/uL",
+      "ref": "4000 - 11000",
+      "flag": "H",
+      "bbox_value": [
+        700,
+        832,
+        808,
+        857
+      ],
+      "bbox_row": [
+        110,
+        831,
+        1498,
+        860
+      ]
+    }
+  ],
+  "lines": [
+    "Medilink Clinical Lab",
+    "Department of Laboratory Medicine",
+    "Patient Name: Kavya Menon",
+    "Patient ID: MF-1017",
+    "Age/Sex: 38 Y / F",
+    "Collection Date : 10-Jan-2026",
+    "Test Result Flag Unit Reference Range",
+    "Blood Urea 71 H mg/dL 15 - 40",
+    "Platelet Count 1.20 L lakh/uL 1.5 - 4.5",
+    "Vitamin D (25-OH) 44.6 ng/mL 30 - 100",
+    "Fasting Blood Glucose 103 H mg/dL 70 - 100",
+    "HbA1c 9.1 H % 4.0 - 5.6",
+    "WBC Count 13000 H cells/uL 4000 - 11000",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1017-2026-01-10-Medilink Clinical Lab"
+}

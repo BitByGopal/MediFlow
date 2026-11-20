@@ -1,0 +1,180 @@
+{
+  "report_id": "R0100",
+  "patient_id": "MF-1012",
+  "patient_name": "Priya Verma",
+  "age": 71,
+  "sex": "F",
+  "date": "2025-05-25",
+  "date_text": "2025-05-25",
+  "bbox_date": [
+    1116,
+    327,
+    1321,
+    352
+  ],
+  "lab": "Medilink Clinical Lab",
+  "template": "C",
+  "variant": "clean",
+  "image": "R0100.png",
+  "fields": [
+    {
+      "code": "TRIGLYCERIDES",
+      "name": "Triglycerides",
+      "value": "400",
+      "unit": "mg/dL",
+      "ref": "< 150",
+      "flag": "H",
+      "bbox_value": [
+        820,
+        512,
+        881,
+        537
+      ],
+      "bbox_row": [
+        110,
+        511,
+        1432,
+        544
+      ]
+    },
+    {
+      "code": "HEMOGLOBIN",
+      "name": "Haemoglobin",
+      "value": "11.8",
+      "unit": "g/dL",
+      "ref": "13.0 - 17.0",
+      "flag": "L",
+      "bbox_value": [
+        820,
+        576,
+        902,
+        601
+      ],
+      "bbox_row": [
+        110,
+        575,
+        1555,
+        608
+      ]
+    },
+    {
+      "code": "PLATELETS",
+      "name": "Platelets",
+      "value": "3.64",
+      "unit": "lakh/uL",
+      "ref": "1.5 - 4.5",
+      "flag": "",
+      "bbox_value": [
+        820,
+        640,
+        902,
+        665
+      ],
+      "bbox_row": [
+        110,
+        639,
+        1514,
+        668
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "Fasting Blood Sugar",
+      "value": "179",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "H",
+      "bbox_value": [
+        820,
+        704,
+        881,
+        729
+      ],
+      "bbox_row": [
+        110,
+        703,
+        1494,
+        736
+      ]
+    },
+    {
+      "code": "VITAMIN_D",
+      "name": "Vitamin D",
+      "value": "43.4",
+      "unit": "ng/mL",
+      "ref": "30 - 100",
+      "flag": "",
+      "bbox_value": [
+        820,
+        768,
+        902,
+        793
+      ],
+      "bbox_row": [
+        110,
+        767,
+        1494,
+        800
+      ]
+    },
+    {
+      "code": "UREA",
+      "name": "Urea",
+      "value": "38",
+      "unit": "mg/dL",
+      "ref": "15 - 40",
+      "flag": "",
+      "bbox_value": [
+        820,
+        832,
+        861,
+        857
+      ],
+      "bbox_row": [
+        110,
+        831,
+        1473,
+        864
+      ]
+    },
+    {
+      "code": "WBC",
+      "name": "WBC Count",
+      "value": "5200",
+      "unit": "cells/uL",
+      "ref": "4000 - 11000",
+      "flag": "",
+      "bbox_value": [
+        820,
+        896,
+        902,
+        921
+      ],
+      "bbox_row": [
+        110,
+        895,
+        1576,
+        924
+      ]
+    }
+  ],
+  "lines": [
+    "Medilink Clinical Lab",
+    "Department of Laboratory Medicine",
+    "Patient Name: Priya Verma",
+    "Patient ID: MF-1012",
+    "Age/Sex: 71 Y / F",
+    "Date: 2025-05-25",
+    "Test Result Flag Unit Reference Range",
+    "Triglycerides 400 H mg/dL < 150",
+    "Haemoglobin 11.8 L g/dL 13.0 - 17.0",
+    "Platelets 3.64 lakh/uL 1.5 - 4.5",
+    "Fasting Blood Sugar 179 H mg/dL 70 - 100",
+    "Vitamin D 43.4 ng/mL 30 - 100",
+    "Urea 38 mg/dL 15 - 40",
+    "WBC Count 5200 cells/uL 4000 - 11000",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1012-2025-05-25-Medilink Clinical Lab"
+}

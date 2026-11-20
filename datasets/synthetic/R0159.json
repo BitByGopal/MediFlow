@@ -1,0 +1,138 @@
+{
+  "report_id": "R0159",
+  "patient_id": "MF-1018",
+  "patient_name": "Sneha Khan",
+  "age": 44,
+  "sex": "F",
+  "date": "2025-04-26",
+  "date_text": "26-Apr-2025",
+  "bbox_date": [
+    1325,
+    340,
+    1541,
+    378
+  ],
+  "lab": "Sunrise Diagnostics",
+  "template": "B",
+  "variant": "hard_scan",
+  "image": "R0159.jpg",
+  "fields": [
+    {
+      "code": "UREA",
+      "name": "Urea",
+      "value": "65",
+      "unit": "mg/dL",
+      "ref": "15 - 40",
+      "flag": "H",
+      "bbox_value": [
+        717,
+        508,
+        761,
+        534
+      ],
+      "bbox_row": [
+        127,
+        491,
+        1408,
+        560
+      ]
+    },
+    {
+      "code": "SGPT",
+      "name": "SGPT (ALT)",
+      "value": "88",
+      "unit": "U/L",
+      "ref": "7 - 56",
+      "flag": "H",
+      "bbox_value": [
+        716,
+        572,
+        759,
+        598
+      ],
+      "bbox_row": [
+        126,
+        555,
+        1384,
+        621
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "Fasting Blood Sugar",
+      "value": "72",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "",
+      "bbox_value": [
+        714,
+        636,
+        757,
+        662
+      ],
+      "bbox_row": [
+        124,
+        619,
+        1425,
+        688
+      ]
+    },
+    {
+      "code": "VITAMIN_D",
+      "name": "Vitamin D",
+      "value": "43.2",
+      "unit": "ng/mL",
+      "ref": "30 - 100",
+      "flag": "",
+      "bbox_value": [
+        712,
+        700,
+        789,
+        727
+      ],
+      "bbox_row": [
+        121,
+        682,
+        1423,
+        752
+      ]
+    },
+    {
+      "code": "HEMOGLOBIN",
+      "name": "Haemoglobin",
+      "value": "13.7",
+      "unit": "g/dL",
+      "ref": "13.0 - 17.0",
+      "flag": "",
+      "bbox_value": [
+        710,
+        764,
+        787,
+        791
+      ],
+      "bbox_row": [
+        120,
+        746,
+        1465,
+        817
+      ]
+    }
+  ],
+  "lines": [
+    "Sunrise Diagnostics",
+    "Department of Laboratory Medicine",
+    "Patient Name: Sneha Khan",
+    "Patient ID: MF-1018",
+    "Age/Sex: 44 Y / F",
+    "Collection Date : 26-Apr-2025",
+    "Test Result Flag Unit Reference Range",
+    "Urea 65 H mg/dL 15 - 40",
+    "SGPT (ALT) 88 H U/L 7 - 56",
+    "Fasting Blood Sugar 72 mg/dL 70 - 100",
+    "Vitamin D 43.2 ng/mL 30 - 100",
+    "Haemoglobin 13.7 g/dL 13.0 - 17.0",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1018-2025-04-26-Sunrise Diagnostics"
+}

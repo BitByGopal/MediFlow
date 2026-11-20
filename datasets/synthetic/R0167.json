@@ -1,0 +1,138 @@
+{
+  "report_id": "R0167",
+  "patient_id": "MF-1018",
+  "patient_name": "Sneha Khan",
+  "age": 44,
+  "sex": "F",
+  "date": "2026-03-10",
+  "date_text": "10-Mar-2026",
+  "bbox_date": [
+    1294,
+    319,
+    1518,
+    347
+  ],
+  "lab": "Medilink Clinical Lab",
+  "template": "B",
+  "variant": "scan",
+  "image": "R0167.jpg",
+  "fields": [
+    {
+      "code": "UREA",
+      "name": "Urea",
+      "value": "49",
+      "unit": "mg/dL",
+      "ref": "15 - 40",
+      "flag": "H",
+      "bbox_value": [
+        693,
+        512,
+        736,
+        538
+      ],
+      "bbox_row": [
+        103,
+        505,
+        1383,
+        551
+      ]
+    },
+    {
+      "code": "SGPT",
+      "name": "SGPT (ALT)",
+      "value": "86",
+      "unit": "U/L",
+      "ref": "7 - 56",
+      "flag": "H",
+      "bbox_value": [
+        693,
+        576,
+        737,
+        602
+      ],
+      "bbox_row": [
+        103,
+        569,
+        1362,
+        613
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "Fasting Blood Sugar",
+      "value": "72",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "",
+      "bbox_value": [
+        694,
+        640,
+        737,
+        666
+      ],
+      "bbox_row": [
+        104,
+        632,
+        1405,
+        679
+      ]
+    },
+    {
+      "code": "VITAMIN_D",
+      "name": "Vitamin D",
+      "value": "38.9",
+      "unit": "ng/mL",
+      "ref": "30 - 100",
+      "flag": "",
+      "bbox_value": [
+        695,
+        704,
+        771,
+        730
+      ],
+      "bbox_row": [
+        104,
+        696,
+        1406,
+        743
+      ]
+    },
+    {
+      "code": "HEMOGLOBIN",
+      "name": "Haemoglobin",
+      "value": "12.9",
+      "unit": "g/dL",
+      "ref": "13.0 - 17.0",
+      "flag": "L",
+      "bbox_value": [
+        695,
+        768,
+        772,
+        794
+      ],
+      "bbox_row": [
+        105,
+        760,
+        1450,
+        807
+      ]
+    }
+  ],
+  "lines": [
+    "Medilink Clinical Lab",
+    "Department of Laboratory Medicine",
+    "Patient Name: Sneha Khan",
+    "Patient ID: MF-1018",
+    "Age/Sex: 44 Y / F",
+    "Collection Date : 10-Mar-2026",
+    "Test Result Flag Unit Reference Range",
+    "Urea 49 H mg/dL 15 - 40",
+    "SGPT (ALT) 86 H U/L 7 - 56",
+    "Fasting Blood Sugar 72 mg/dL 70 - 100",
+    "Vitamin D 38.9 ng/mL 30 - 100",
+    "Haemoglobin 12.9 L g/dL 13.0 - 17.0",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1018-2026-03-10-Medilink Clinical Lab"
+}

@@ -1,0 +1,83 @@
+{
+  "clean": {
+    "documents": 61,
+    "fields_in_ground_truth": 381,
+    "CER_mean": 0.0139,
+    "test_precision": 1.0,
+    "test_recall": 0.9974,
+    "test_F1": 0.9987,
+    "value_exact_match": 0.9974,
+    "unit_accuracy": 0.9974,
+    "date_accuracy": 1.0,
+    "source_link_accuracy": 0.9974,
+    "wrong_values": 1,
+    "error_catch_rate": 1.0,
+    "false_alarm_rate": 0.0317,
+    "silent_error_rate": 0.0,
+    "auto_verified_share": 0.9658
+  },
+  "ALL": {
+    "documents": 183,
+    "fields_in_ground_truth": 1143,
+    "CER_mean": 0.024,
+    "test_precision": 1.0,
+    "test_recall": 0.9991,
+    "test_F1": 0.9996,
+    "value_exact_match": 0.9527,
+    "unit_accuracy": 0.9588,
+    "date_accuracy": 0.9672,
+    "source_link_accuracy": 0.979,
+    "wrong_values": 54,
+    "error_catch_rate": 0.9259,
+    "false_alarm_rate": 0.0754,
+    "silent_error_rate": 0.0035,
+    "auto_verified_share": 0.8844
+  },
+  "scan": {
+    "documents": 61,
+    "fields_in_ground_truth": 381,
+    "CER_mean": 0.0227,
+    "test_precision": 1.0,
+    "test_recall": 1.0,
+    "test_F1": 1.0,
+    "value_exact_match": 0.9423,
+    "unit_accuracy": 0.9501,
+    "date_accuracy": 1.0,
+    "source_link_accuracy": 0.9606,
+    "wrong_values": 22,
+    "error_catch_rate": 1.0,
+    "false_alarm_rate": 0.0529,
+    "silent_error_rate": 0.0,
+    "auto_verified_share": 0.8924
+  },
+  "hard_scan": {
+    "documents": 61,
+    "fields_in_ground_truth": 381,
+    "CER_mean": 0.0354,
+    "test_precision": 1.0,
+    "test_recall": 1.0,
+    "test_F1": 1.0,
+    "value_exact_match": 0.9186,
+    "unit_accuracy": 0.9291,
+    "date_accuracy": 0.9016,
+    "source_link_accuracy": 0.979,
+    "wrong_values": 31,
+    "error_catch_rate": 0.871,
+    "false_alarm_rate": 0.1457,
+    "silent_error_rate": 0.0105,
+    "auto_verified_share": 0.7953
+  },
+  "review_reasons": {
+    "second read disagrees": 50,
+    "document date not found": 35,
+    "low OCR confidence": 31,
+    "unit not recognised": 28,
+    "value not found on line": 19,
+    "value outside technically plausible range": 10
+  },
+  "_config": {
+    "patients": 20,
+    "seed": 7,
+    "documents": 183
+  }
+}

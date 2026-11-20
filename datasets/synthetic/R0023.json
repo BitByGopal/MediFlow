@@ -1,0 +1,159 @@
+{
+  "report_id": "R0023",
+  "patient_id": "MF-1002",
+  "patient_name": "Rahul Iyer",
+  "age": 63,
+  "sex": "F",
+  "date": "2025-05-24",
+  "date_text": "24/05/2025",
+  "bbox_date": [
+    1308,
+    315,
+    1505,
+    346
+  ],
+  "lab": "Medilink Clinical Lab",
+  "template": "A",
+  "variant": "scan",
+  "image": "R0023.jpg",
+  "fields": [
+    {
+      "code": "VITAMIN_D",
+      "name": "Vitamin D (25-OH)",
+      "value": "59.0",
+      "unit": "ng/mL",
+      "ref": "30 - 100",
+      "flag": "",
+      "bbox_value": [
+        749,
+        511,
+        825,
+        538
+      ],
+      "bbox_row": [
+        99,
+        501,
+        1381,
+        556
+      ]
+    },
+    {
+      "code": "TRIGLYCERIDES",
+      "name": "Triglycerides",
+      "value": "120",
+      "unit": "mg/dL",
+      "ref": "< 150",
+      "flag": "",
+      "bbox_value": [
+        750,
+        576,
+        815,
+        602
+      ],
+      "bbox_row": [
+        99,
+        566,
+        1344,
+        620
+      ]
+    },
+    {
+      "code": "CREATININE",
+      "name": "Creatinine",
+      "value": "0.59",
+      "unit": "mg/dL",
+      "ref": "0.7 - 1.3",
+      "flag": "L",
+      "bbox_value": [
+        751,
+        639,
+        827,
+        666
+      ],
+      "bbox_row": [
+        101,
+        629,
+        1383,
+        684
+      ]
+    },
+    {
+      "code": "PLATELETS",
+      "name": "Platelets",
+      "value": "5.00",
+      "unit": "lakh/uL",
+      "ref": "1.5 - 4.5",
+      "flag": "H",
+      "bbox_value": [
+        752,
+        703,
+        828,
+        730
+      ],
+      "bbox_row": [
+        102,
+        693,
+        1384,
+        745
+      ]
+    },
+    {
+      "code": "TSH",
+      "name": "Thyroid Stimulating Hormone",
+      "value": "6.89",
+      "unit": "uIU/mL",
+      "ref": "0.4 - 4.0",
+      "flag": "H",
+      "bbox_value": [
+        753,
+        767,
+        829,
+        794
+      ],
+      "bbox_row": [
+        102,
+        757,
+        1385,
+        812
+      ]
+    },
+    {
+      "code": "HEMOGLOBIN",
+      "name": "Haemoglobin",
+      "value": "9.4",
+      "unit": "g/dL",
+      "ref": "13.0 - 17.0",
+      "flag": "L",
+      "bbox_value": [
+        754,
+        832,
+        808,
+        858
+      ],
+      "bbox_row": [
+        104,
+        820,
+        1429,
+        875
+      ]
+    }
+  ],
+  "lines": [
+    "Medilink Clinical Lab",
+    "Department of Laboratory Medicine",
+    "Patient Name: Rahul Iyer",
+    "Patient ID: MF-1002",
+    "Age/Sex: 63 Y / F",
+    "Sample Collected: 24/05/2025",
+    "Test Result Unit Reference Range",
+    "Vitamin D (25-OH) 59.0 ng/mL 30 - 100",
+    "Triglycerides 120 mg/dL < 150",
+    "Creatinine 0.59 (L) mg/dL 0.7 - 1.3",
+    "Platelets 5.00 (H) lakh/uL 1.5 - 4.5",
+    "Thyroid Stimulating Hormone 6.89 (H) uIU/mL 0.4 - 4.0",
+    "Haemoglobin 9.4 (L) g/dL 13.0 - 17.0",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1002-2025-05-24-Medilink Clinical Lab"
+}

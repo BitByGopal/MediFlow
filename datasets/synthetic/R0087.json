@@ -1,0 +1,201 @@
+{
+  "report_id": "R0087",
+  "patient_id": "MF-1010",
+  "patient_name": "Rahul Gupta",
+  "age": 76,
+  "sex": "F",
+  "date": "2025-09-03",
+  "date_text": "03-Sep-2025",
+  "bbox_date": [
+    1344,
+    352,
+    1563,
+    395
+  ],
+  "lab": "Sunrise Diagnostics",
+  "template": "B",
+  "variant": "hard_scan",
+  "image": "R0087.jpg",
+  "fields": [
+    {
+      "code": "TOTAL_CHOLESTEROL",
+      "name": "Serum Cholesterol",
+      "value": "236",
+      "unit": "mg/dL",
+      "ref": "< 200",
+      "flag": "H",
+      "bbox_value": [
+        732,
+        506,
+        799,
+        534
+      ],
+      "bbox_row": [
+        143,
+        474,
+        1407,
+        573
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "Fasting Blood Glucose",
+      "value": "130",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "H",
+      "bbox_value": [
+        729,
+        570,
+        795,
+        598
+      ],
+      "bbox_row": [
+        139,
+        538,
+        1440,
+        638
+      ]
+    },
+    {
+      "code": "SGPT",
+      "name": "ALT",
+      "value": "99",
+      "unit": "U/L",
+      "ref": "7 - 56",
+      "flag": "H",
+      "bbox_value": [
+        726,
+        634,
+        770,
+        661
+      ],
+      "bbox_row": [
+        135,
+        603,
+        1394,
+        696
+      ]
+    },
+    {
+      "code": "HBA1C",
+      "name": "HbA1c",
+      "value": "5.8",
+      "unit": "%",
+      "ref": "4.0 - 5.6",
+      "flag": "H",
+      "bbox_value": [
+        722,
+        698,
+        778,
+        725
+      ],
+      "bbox_row": [
+        133,
+        666,
+        1434,
+        759
+      ]
+    },
+    {
+      "code": "WBC",
+      "name": "Total WBC Count",
+      "value": "7200",
+      "unit": "cells/uL",
+      "ref": "4000 - 11000",
+      "flag": "",
+      "bbox_value": [
+        719,
+        761,
+        807,
+        791
+      ],
+      "bbox_row": [
+        130,
+        730,
+        1517,
+        831
+      ]
+    },
+    {
+      "code": "TRIGLYCERIDES",
+      "name": "Triglycerides",
+      "value": "333",
+      "unit": "mg/dL",
+      "ref": "< 150",
+      "flag": "H",
+      "bbox_value": [
+        716,
+        825,
+        782,
+        854
+      ],
+      "bbox_row": [
+        126,
+        794,
+        1390,
+        892
+      ]
+    },
+    {
+      "code": "CREATININE",
+      "name": "Serum Creatinine",
+      "value": "0.99",
+      "unit": "mg/dL",
+      "ref": "0.7 - 1.3",
+      "flag": "",
+      "bbox_value": [
+        712,
+        889,
+        790,
+        918
+      ],
+      "bbox_row": [
+        123,
+        858,
+        1424,
+        958
+      ]
+    },
+    {
+      "code": "HEMOGLOBIN",
+      "name": "Hb",
+      "value": "11.0",
+      "unit": "g/dL",
+      "ref": "13.0 - 17.0",
+      "flag": "L",
+      "bbox_value": [
+        709,
+        953,
+        786,
+        982
+      ],
+      "bbox_row": [
+        120,
+        922,
+        1464,
+        1024
+      ]
+    }
+  ],
+  "lines": [
+    "Sunrise Diagnostics",
+    "Department of Laboratory Medicine",
+    "Patient Name: Rahul Gupta",
+    "Patient ID: MF-1010",
+    "Age/Sex: 76 Y / F",
+    "Collection Date : 03-Sep-2025",
+    "Test Result Flag Unit Reference Range",
+    "Serum Cholesterol 236 H mg/dL < 200",
+    "Fasting Blood Glucose 130 H mg/dL 70 - 100",
+    "ALT 99 H U/L 7 - 56",
+    "HbA1c 5.8 H % 4.0 - 5.6",
+    "Total WBC Count 7200 cells/uL 4000 - 11000",
+    "Triglycerides 333 H mg/dL < 150",
+    "Serum Creatinine 0.99 mg/dL 0.7 - 1.3",
+    "Hb 11.0 L g/dL 13.0 - 17.0",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1010-2025-09-03-Sunrise Diagnostics"
+}

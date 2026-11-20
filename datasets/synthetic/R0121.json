@@ -1,0 +1,201 @@
+{
+  "report_id": "R0121",
+  "patient_id": "MF-1015",
+  "patient_name": "Aarav Sharma",
+  "age": 63,
+  "sex": "F",
+  "date": "2025-06-09",
+  "date_text": "09-Jun-2025",
+  "bbox_date": [
+    1303,
+    327,
+    1513,
+    359
+  ],
+  "lab": "Medilink Clinical Lab",
+  "template": "B",
+  "variant": "clean",
+  "image": "R0121.png",
+  "fields": [
+    {
+      "code": "TOTAL_CHOLESTEROL",
+      "name": "Total Cholesterol",
+      "value": "120",
+      "unit": "mg/dL",
+      "ref": "< 200",
+      "flag": "",
+      "bbox_value": [
+        700,
+        512,
+        765,
+        537
+      ],
+      "bbox_row": [
+        110,
+        511,
+        1374,
+        544
+      ]
+    },
+    {
+      "code": "TSH",
+      "name": "TSH",
+      "value": "6.83",
+      "unit": "uIU/mL",
+      "ref": "0.4 - 4.0",
+      "flag": "H",
+      "bbox_value": [
+        700,
+        576,
+        776,
+        601
+      ],
+      "bbox_row": [
+        110,
+        576,
+        1411,
+        604
+      ]
+    },
+    {
+      "code": "PLATELETS",
+      "name": "Platelet Count",
+      "value": "2.23",
+      "unit": "lakh/uL",
+      "ref": "1.5 - 4.5",
+      "flag": "",
+      "bbox_value": [
+        700,
+        640,
+        776,
+        665
+      ],
+      "bbox_row": [
+        110,
+        639,
+        1411,
+        668
+      ]
+    },
+    {
+      "code": "VITAMIN_D",
+      "name": "Vitamin D",
+      "value": "70.0",
+      "unit": "ng/mL",
+      "ref": "30 - 100",
+      "flag": "",
+      "bbox_value": [
+        700,
+        704,
+        776,
+        729
+      ],
+      "bbox_row": [
+        109,
+        703,
+        1411,
+        736
+      ]
+    },
+    {
+      "code": "HBA1C",
+      "name": "Glycated Hemoglobin",
+      "value": "4.9",
+      "unit": "%",
+      "ref": "4.0 - 5.6",
+      "flag": "",
+      "bbox_value": [
+        700,
+        768,
+        754,
+        793
+      ],
+      "bbox_row": [
+        110,
+        767,
+        1411,
+        800
+      ]
+    },
+    {
+      "code": "UREA",
+      "name": "Urea",
+      "value": "79",
+      "unit": "mg/dL",
+      "ref": "15 - 40",
+      "flag": "H",
+      "bbox_value": [
+        700,
+        832,
+        743,
+        857
+      ],
+      "bbox_row": [
+        110,
+        831,
+        1390,
+        864
+      ]
+    },
+    {
+      "code": "SGPT",
+      "name": "SGPT (ALT)",
+      "value": "140",
+      "unit": "U/L",
+      "ref": "7 - 56",
+      "flag": "H",
+      "bbox_value": [
+        700,
+        896,
+        765,
+        921
+      ],
+      "bbox_row": [
+        110,
+        895,
+        1368,
+        926
+      ]
+    },
+    {
+      "code": "CREATININE",
+      "name": "Creatinine",
+      "value": "2.46",
+      "unit": "mg/dL",
+      "ref": "0.7 - 1.3",
+      "flag": "H",
+      "bbox_value": [
+        700,
+        960,
+        776,
+        985
+      ],
+      "bbox_row": [
+        110,
+        959,
+        1411,
+        992
+      ]
+    }
+  ],
+  "lines": [
+    "Medilink Clinical Lab",
+    "Department of Laboratory Medicine",
+    "Patient Name: Aarav Sharma",
+    "Patient ID: MF-1015",
+    "Age/Sex: 63 Y / F",
+    "Collection Date : 09-Jun-2025",
+    "Test Result Flag Unit Reference Range",
+    "Total Cholesterol 120 mg/dL < 200",
+    "TSH 6.83 H uIU/mL 0.4 - 4.0",
+    "Platelet Count 2.23 lakh/uL 1.5 - 4.5",
+    "Vitamin D 70.0 ng/mL 30 - 100",
+    "Glycated Hemoglobin 4.9 % 4.0 - 5.6",
+    "Urea 79 H mg/dL 15 - 40",
+    "SGPT (ALT) 140 H U/L 7 - 56",
+    "Creatinine 2.46 H mg/dL 0.7 - 1.3",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1015-2025-06-09-Medilink Clinical Lab"
+}

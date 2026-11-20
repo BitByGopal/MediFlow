@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+demo/_uploads/
+# never commit real patient data
+datasets/real/
+*.secret

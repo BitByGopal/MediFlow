@@ -1,0 +1,138 @@
+{
+  "report_id": "R0061",
+  "patient_id": "MF-1007",
+  "patient_name": "Harpreet Verma",
+  "age": 24,
+  "sex": "F",
+  "date": "2025-04-19",
+  "date_text": "2025-04-19",
+  "bbox_date": [
+    1116,
+    327,
+    1321,
+    352
+  ],
+  "lab": "Medilink Clinical Lab",
+  "template": "C",
+  "variant": "clean",
+  "image": "R0061.png",
+  "fields": [
+    {
+      "code": "SGPT",
+      "name": "ALT",
+      "value": "58",
+      "unit": "U/L",
+      "ref": "7 - 56",
+      "flag": "H",
+      "bbox_value": [
+        820,
+        512,
+        861,
+        537
+      ],
+      "bbox_row": [
+        110,
+        512,
+        1453,
+        540
+      ]
+    },
+    {
+      "code": "WBC",
+      "name": "Total Leucocyte Count",
+      "value": "9200",
+      "unit": "cells/uL",
+      "ref": "4000 - 11000",
+      "flag": "",
+      "bbox_value": [
+        820,
+        576,
+        902,
+        601
+      ],
+      "bbox_row": [
+        110,
+        575,
+        1576,
+        608
+      ]
+    },
+    {
+      "code": "VITAMIN_D",
+      "name": "Vitamin D",
+      "value": "49.8",
+      "unit": "ng/mL",
+      "ref": "30 - 100",
+      "flag": "",
+      "bbox_value": [
+        820,
+        640,
+        902,
+        665
+      ],
+      "bbox_row": [
+        110,
+        639,
+        1494,
+        672
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "Fasting Blood Sugar",
+      "value": "215",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "H",
+      "bbox_value": [
+        820,
+        704,
+        881,
+        729
+      ],
+      "bbox_row": [
+        110,
+        703,
+        1494,
+        736
+      ]
+    },
+    {
+      "code": "PLATELETS",
+      "name": "Platelet Count",
+      "value": "3.39",
+      "unit": "lakh/uL",
+      "ref": "1.5 - 4.5",
+      "flag": "",
+      "bbox_value": [
+        820,
+        768,
+        902,
+        793
+      ],
+      "bbox_row": [
+        110,
+        767,
+        1514,
+        796
+      ]
+    }
+  ],
+  "lines": [
+    "Medilink Clinical Lab",
+    "Department of Laboratory Medicine",
+    "Patient Name: Harpreet Verma",
+    "Patient ID: MF-1007",
+    "Age/Sex: 24 Y / F",
+    "Date: 2025-04-19",
+    "Test Result Flag Unit Reference Range",
+    "ALT 58 H U/L 7 - 56",
+    "Total Leucocyte Count 9200 cells/uL 4000 - 11000",
+    "Vitamin D 49.8 ng/mL 30 - 100",
+    "Fasting Blood Sugar 215 H mg/dL 70 - 100",
+    "Platelet Count 3.39 lakh/uL 1.5 - 4.5",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1007-2025-04-19-Medilink Clinical Lab"
+}

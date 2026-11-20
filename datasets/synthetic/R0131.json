@@ -1,0 +1,138 @@
+{
+  "report_id": "R0131",
+  "patient_id": "MF-1016",
+  "patient_name": "Aarav Patel",
+  "age": 46,
+  "sex": "F",
+  "date": "2025-02-16",
+  "date_text": "2025-02-16",
+  "bbox_date": [
+    1101,
+    318,
+    1307,
+    347
+  ],
+  "lab": "Sunrise Diagnostics",
+  "template": "C",
+  "variant": "scan",
+  "image": "R0131.jpg",
+  "fields": [
+    {
+      "code": "WBC",
+      "name": "Total Leucocyte Count",
+      "value": "14300",
+      "unit": "cells/uL",
+      "ref": "4000 - 11000",
+      "flag": "H",
+      "bbox_value": [
+        808,
+        510,
+        911,
+        537
+      ],
+      "bbox_row": [
+        99,
+        498,
+        1565,
+        556
+      ]
+    },
+    {
+      "code": "CREATININE",
+      "name": "Creatinine",
+      "value": "2.85",
+      "unit": "mg/dL",
+      "ref": "0.7 - 1.3",
+      "flag": "H",
+      "bbox_value": [
+        810,
+        574,
+        892,
+        601
+      ],
+      "bbox_row": [
+        100,
+        563,
+        1504,
+        620
+      ]
+    },
+    {
+      "code": "SGPT",
+      "name": "ALT",
+      "value": "61",
+      "unit": "U/L",
+      "ref": "7 - 56",
+      "flag": "H",
+      "bbox_value": [
+        811,
+        639,
+        852,
+        665
+      ],
+      "bbox_row": [
+        101,
+        629,
+        1444,
+        680
+      ]
+    },
+    {
+      "code": "TOTAL_CHOLESTEROL",
+      "name": "Total Cholesterol",
+      "value": "173",
+      "unit": "mg/dL",
+      "ref": "< 200",
+      "flag": "",
+      "bbox_value": [
+        812,
+        703,
+        873,
+        729
+      ],
+      "bbox_row": [
+        102,
+        692,
+        1424,
+        748
+      ]
+    },
+    {
+      "code": "UREA",
+      "name": "Blood Urea",
+      "value": "11",
+      "unit": "mg/dL",
+      "ref": "15 - 40",
+      "flag": "L",
+      "bbox_value": [
+        813,
+        767,
+        854,
+        793
+      ],
+      "bbox_row": [
+        103,
+        756,
+        1466,
+        812
+      ]
+    }
+  ],
+  "lines": [
+    "Sunrise Diagnostics",
+    "Department of Laboratory Medicine",
+    "Patient Name: Aarav Patel",
+    "Patient ID: MF-1016",
+    "Age/Sex: 46 Y / F",
+    "Date: 2025-02-16",
+    "Test Result Flag Unit Reference Range",
+    "Total Leucocyte Count 14300 H cells/uL 4000 - 11000",
+    "Creatinine 2.85 H mg/dL 0.7 - 1.3",
+    "ALT 61 H U/L 7 - 56",
+    "Total Cholesterol 173 mg/dL < 200",
+    "Blood Urea 11 L mg/dL 15 - 40",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1016-2025-02-16-Sunrise Diagnostics"
+}

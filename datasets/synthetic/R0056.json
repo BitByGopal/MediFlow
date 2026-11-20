@@ -1,0 +1,180 @@
+{
+  "report_id": "R0056",
+  "patient_id": "MF-1006",
+  "patient_name": "Ananya Sharma",
+  "age": 29,
+  "sex": "F",
+  "date": "2025-06-16",
+  "date_text": "2025-06-16",
+  "bbox_date": [
+    1098,
+    317,
+    1304,
+    346
+  ],
+  "lab": "Sunrise Diagnostics",
+  "template": "C",
+  "variant": "scan",
+  "image": "R0056.jpg",
+  "fields": [
+    {
+      "code": "PLATELETS",
+      "name": "Platelets",
+      "value": "1.11",
+      "unit": "lakh/uL",
+      "ref": "1.5 - 4.5",
+      "flag": "L",
+      "bbox_value": [
+        806,
+        510,
+        889,
+        537
+      ],
+      "bbox_row": [
+        96,
+        497,
+        1500,
+        554
+      ]
+    },
+    {
+      "code": "TOTAL_CHOLESTEROL",
+      "name": "Serum Cholesterol",
+      "value": "167",
+      "unit": "mg/dL",
+      "ref": "< 200",
+      "flag": "",
+      "bbox_value": [
+        807,
+        575,
+        869,
+        601
+      ],
+      "bbox_row": [
+        97,
+        562,
+        1420,
+        622
+      ]
+    },
+    {
+      "code": "TRIGLYCERIDES",
+      "name": "Triglycerides",
+      "value": "324",
+      "unit": "mg/dL",
+      "ref": "< 150",
+      "flag": "H",
+      "bbox_value": [
+        809,
+        639,
+        870,
+        665
+      ],
+      "bbox_row": [
+        99,
+        626,
+        1421,
+        686
+      ]
+    },
+    {
+      "code": "HEMOGLOBIN",
+      "name": "Haemoglobin",
+      "value": "10.0",
+      "unit": "g/dL",
+      "ref": "13.0 - 17.0",
+      "flag": "L",
+      "bbox_value": [
+        810,
+        702,
+        892,
+        729
+      ],
+      "bbox_row": [
+        100,
+        688,
+        1545,
+        750
+      ]
+    },
+    {
+      "code": "TSH",
+      "name": "Thyroid Stimulating Hormone",
+      "value": "9.97",
+      "unit": "uIU/mL",
+      "ref": "0.4 - 4.0",
+      "flag": "H",
+      "bbox_value": [
+        811,
+        766,
+        894,
+        793
+      ],
+      "bbox_row": [
+        101,
+        752,
+        1506,
+        814
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "Fasting Blood Sugar",
+      "value": "87",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "",
+      "bbox_value": [
+        813,
+        831,
+        854,
+        857
+      ],
+      "bbox_row": [
+        103,
+        817,
+        1487,
+        878
+      ]
+    },
+    {
+      "code": "UREA",
+      "name": "Urea",
+      "value": "65",
+      "unit": "mg/dL",
+      "ref": "15 - 40",
+      "flag": "H",
+      "bbox_value": [
+        814,
+        895,
+        855,
+        921
+      ],
+      "bbox_row": [
+        104,
+        881,
+        1467,
+        942
+      ]
+    }
+  ],
+  "lines": [
+    "Sunrise Diagnostics",
+    "Department of Laboratory Medicine",
+    "Patient Name: Ananya Sharma",
+    "Patient ID: MF-1006",
+    "Age/Sex: 29 Y / F",
+    "Date: 2025-06-16",
+    "Test Result Flag Unit Reference Range",
+    "Platelets 1.11 L lakh/uL 1.5 - 4.5",
+    "Serum Cholesterol 167 mg/dL < 200",
+    "Triglycerides 324 H mg/dL < 150",
+    "Haemoglobin 10.0 L g/dL 13.0 - 17.0",
+    "Thyroid Stimulating Hormone 9.97 H uIU/mL 0.4 - 4.0",
+    "Fasting Blood Sugar 87 mg/dL 70 - 100",
+    "Urea 65 H mg/dL 15 - 40",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1006-2025-06-16-Sunrise Diagnostics"
+}

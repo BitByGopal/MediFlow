@@ -1,0 +1,9 @@
+# Python 3.10+. Also install the Tesseract OCR engine (see README).
+pytesseract>=0.3.10
+pillow>=10.0
+opencv-python-headless>=4.8
+numpy>=1.26
+pandas>=2.0
+rapidfuzz>=3.0
+streamlit>=1.40
+matplotlib>=3.8

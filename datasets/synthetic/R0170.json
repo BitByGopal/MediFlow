@@ -1,0 +1,180 @@
+{
+  "report_id": "R0170",
+  "patient_id": "MF-1019",
+  "patient_name": "Sneha Kaur",
+  "age": 51,
+  "sex": "F",
+  "date": "2025-03-08",
+  "date_text": "2025-03-08",
+  "bbox_date": [
+    1117,
+    327,
+    1322,
+    352
+  ],
+  "lab": "Sunrise Diagnostics",
+  "template": "C",
+  "variant": "scan",
+  "image": "R0170.jpg",
+  "fields": [
+    {
+      "code": "VITAMIN_D",
+      "name": "Vitamin D (25-OH)",
+      "value": "16.3",
+      "unit": "ng/mL",
+      "ref": "30 - 100",
+      "flag": "L",
+      "bbox_value": [
+        820,
+        511,
+        902,
+        537
+      ],
+      "bbox_row": [
+        110,
+        510,
+        1494,
+        544
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "Fasting Blood Sugar",
+      "value": "217",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "H",
+      "bbox_value": [
+        820,
+        575,
+        881,
+        601
+      ],
+      "bbox_row": [
+        110,
+        574,
+        1494,
+        608
+      ]
+    },
+    {
+      "code": "UREA",
+      "name": "Urea",
+      "value": "85",
+      "unit": "mg/dL",
+      "ref": "15 - 40",
+      "flag": "H",
+      "bbox_value": [
+        820,
+        639,
+        861,
+        665
+      ],
+      "bbox_row": [
+        110,
+        638,
+        1473,
+        672
+      ]
+    },
+    {
+      "code": "TOTAL_CHOLESTEROL",
+      "name": "Serum Cholesterol",
+      "value": "224",
+      "unit": "mg/dL",
+      "ref": "< 200",
+      "flag": "H",
+      "bbox_value": [
+        820,
+        703,
+        881,
+        729
+      ],
+      "bbox_row": [
+        110,
+        702,
+        1432,
+        736
+      ]
+    },
+    {
+      "code": "PLATELETS",
+      "name": "Platelets",
+      "value": "1.22",
+      "unit": "lakh/uL",
+      "ref": "1.5 - 4.5",
+      "flag": "L",
+      "bbox_value": [
+        820,
+        767,
+        902,
+        793
+      ],
+      "bbox_row": [
+        110,
+        766,
+        1514,
+        796
+      ]
+    },
+    {
+      "code": "CREATININE",
+      "name": "Serum Creatinine",
+      "value": "2.22",
+      "unit": "mg/dL",
+      "ref": "0.7 - 1.3",
+      "flag": "H",
+      "bbox_value": [
+        820,
+        831,
+        902,
+        857
+      ],
+      "bbox_row": [
+        110,
+        830,
+        1514,
+        864
+      ]
+    },
+    {
+      "code": "TSH",
+      "name": "Thyroid Stimulating Hormone",
+      "value": "6.54",
+      "unit": "uIU/mL",
+      "ref": "0.4 - 4.0",
+      "flag": "H",
+      "bbox_value": [
+        820,
+        895,
+        902,
+        921
+      ],
+      "bbox_row": [
+        110,
+        894,
+        1514,
+        928
+      ]
+    }
+  ],
+  "lines": [
+    "Sunrise Diagnostics",
+    "Department of Laboratory Medicine",
+    "Patient Name: Sneha Kaur",
+    "Patient ID: MF-1019",
+    "Age/Sex: 51 Y / F",
+    "Date: 2025-03-08",
+    "Test Result Flag Unit Reference Range",
+    "Vitamin D (25-OH) 16.3 L ng/mL 30 - 100",
+    "Fasting Blood Sugar 217 H mg/dL 70 - 100",
+    "Urea 85 H mg/dL 15 - 40",
+    "Serum Cholesterol 224 H mg/dL < 200",
+    "Platelets 1.22 L lakh/uL 1.5 - 4.5",
+    "Serum Creatinine 2.22 H mg/dL 0.7 - 1.3",
+    "Thyroid Stimulating Hormone 6.54 H uIU/mL 0.4 - 4.0",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1019-2025-03-08-Sunrise Diagnostics"
+}

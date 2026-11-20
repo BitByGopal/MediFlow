@@ -1,0 +1,138 @@
+{
+  "report_id": "R0035",
+  "patient_id": "MF-1003",
+  "patient_name": "Imran Menon",
+  "age": 46,
+  "sex": "F",
+  "date": "2026-04-07",
+  "date_text": "07/04/2026",
+  "bbox_date": [
+    1330,
+    331,
+    1526,
+    361
+  ],
+  "lab": "CarePoint Pathology Lab",
+  "template": "A",
+  "variant": "scan",
+  "image": "R0035.jpg",
+  "fields": [
+    {
+      "code": "TOTAL_CHOLESTEROL",
+      "name": "Serum Cholesterol",
+      "value": "218",
+      "unit": "mg/dL",
+      "ref": "< 200",
+      "flag": "H",
+      "bbox_value": [
+        765,
+        511,
+        830,
+        537
+      ],
+      "bbox_row": [
+        115,
+        504,
+        1359,
+        548
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "Fasting Blood Glucose",
+      "value": "158",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "H",
+      "bbox_value": [
+        765,
+        575,
+        830,
+        601
+      ],
+      "bbox_row": [
+        115,
+        568,
+        1397,
+        613
+      ]
+    },
+    {
+      "code": "SGPT",
+      "name": "SGPT",
+      "value": "15",
+      "unit": "U/L",
+      "ref": "7 - 56",
+      "flag": "",
+      "bbox_value": [
+        764,
+        639,
+        807,
+        664
+      ],
+      "bbox_row": [
+        114,
+        633,
+        1353,
+        672
+      ]
+    },
+    {
+      "code": "TSH",
+      "name": "TSH",
+      "value": "11.75",
+      "unit": "uIU/mL",
+      "ref": "0.4 - 4.0",
+      "flag": "H",
+      "bbox_value": [
+        764,
+        703,
+        861,
+        729
+      ],
+      "bbox_row": [
+        113,
+        696,
+        1396,
+        738
+      ]
+    },
+    {
+      "code": "PLATELETS",
+      "name": "Platelets",
+      "value": "2.77",
+      "unit": "lakh/uL",
+      "ref": "1.5 - 4.5",
+      "flag": "",
+      "bbox_value": [
+        763,
+        767,
+        839,
+        793
+      ],
+      "bbox_row": [
+        113,
+        760,
+        1395,
+        801
+      ]
+    }
+  ],
+  "lines": [
+    "CarePoint Pathology Lab",
+    "Department of Laboratory Medicine",
+    "Patient Name: Imran Menon",
+    "Patient ID: MF-1003",
+    "Age/Sex: 46 Y / F",
+    "Sample Collected: 07/04/2026",
+    "Test Result Unit Reference Range",
+    "Serum Cholesterol 218 (H) mg/dL < 200",
+    "Fasting Blood Glucose 158 (H) mg/dL 70 - 100",
+    "SGPT 15 U/L 7 - 56",
+    "TSH 11.75 (H) uIU/mL 0.4 - 4.0",
+    "Platelets 2.77 lakh/uL 1.5 - 4.5",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1003-2026-04-07-CarePoint Pathology Lab"
+}

@@ -1,0 +1,138 @@
+{
+  "report_id": "R0068",
+  "patient_id": "MF-1007",
+  "patient_name": "Harpreet Verma",
+  "age": 24,
+  "sex": "F",
+  "date": "2026-03-31",
+  "date_text": "31-Mar-2026",
+  "bbox_date": [
+    1282,
+    310,
+    1507,
+    340
+  ],
+  "lab": "CarePoint Pathology Lab",
+  "template": "B",
+  "variant": "scan",
+  "image": "R0068.jpg",
+  "fields": [
+    {
+      "code": "SGPT",
+      "name": "ALT",
+      "value": "60",
+      "unit": "U/L",
+      "ref": "7 - 56",
+      "flag": "H",
+      "bbox_value": [
+        684,
+        514,
+        728,
+        540
+      ],
+      "bbox_row": [
+        93,
+        499,
+        1352,
+        557
+      ]
+    },
+    {
+      "code": "WBC",
+      "name": "Total Leucocyte Count",
+      "value": "10400",
+      "unit": "cells/uL",
+      "ref": "4000 - 11000",
+      "flag": "",
+      "bbox_value": [
+        685,
+        576,
+        794,
+        604
+      ],
+      "bbox_row": [
+        96,
+        559,
+        1484,
+        625
+      ]
+    },
+    {
+      "code": "VITAMIN_D",
+      "name": "Vitamin D",
+      "value": "46.1",
+      "unit": "ng/mL",
+      "ref": "30 - 100",
+      "flag": "",
+      "bbox_value": [
+        687,
+        641,
+        764,
+        668
+      ],
+      "bbox_row": [
+        96,
+        625,
+        1399,
+        689
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "Fasting Blood Sugar",
+      "value": "176",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "H",
+      "bbox_value": [
+        689,
+        705,
+        754,
+        732
+      ],
+      "bbox_row": [
+        99,
+        689,
+        1400,
+        753
+      ]
+    },
+    {
+      "code": "PLATELETS",
+      "name": "Platelet Count",
+      "value": "3.61",
+      "unit": "lakh/uL",
+      "ref": "1.5 - 4.5",
+      "flag": "",
+      "bbox_value": [
+        690,
+        769,
+        767,
+        796
+      ],
+      "bbox_row": [
+        100,
+        753,
+        1401,
+        813
+      ]
+    }
+  ],
+  "lines": [
+    "CarePoint Pathology Lab",
+    "Department of Laboratory Medicine",
+    "Patient Name: Harpreet Verma",
+    "Patient ID: MF-1007",
+    "Age/Sex: 24 Y / F",
+    "Collection Date : 31-Mar-2026",
+    "Test Result Flag Unit Reference Range",
+    "ALT 60 H U/L 7 - 56",
+    "Total Leucocyte Count 10400 cells/uL 4000 - 11000",
+    "Vitamin D 46.1 ng/mL 30 - 100",
+    "Fasting Blood Sugar 176 H mg/dL 70 - 100",
+    "Platelet Count 3.61 lakh/uL 1.5 - 4.5",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1007-2026-03-31-CarePoint Pathology Lab"
+}

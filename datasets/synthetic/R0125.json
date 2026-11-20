@@ -1,0 +1,201 @@
+{
+  "report_id": "R0125",
+  "patient_id": "MF-1015",
+  "patient_name": "Aarav Sharma",
+  "age": 63,
+  "sex": "F",
+  "date": "2025-10-04",
+  "date_text": "04-Oct-2025",
+  "bbox_date": [
+    1281,
+    309,
+    1494,
+    339
+  ],
+  "lab": "Sunrise Diagnostics",
+  "template": "B",
+  "variant": "scan",
+  "image": "R0125.jpg",
+  "fields": [
+    {
+      "code": "TOTAL_CHOLESTEROL",
+      "name": "Total Cholesterol",
+      "value": "130",
+      "unit": "mg/dL",
+      "ref": "< 200",
+      "flag": "",
+      "bbox_value": [
+        683,
+        513,
+        748,
+        540
+      ],
+      "bbox_row": [
+        93,
+        497,
+        1357,
+        562
+      ]
+    },
+    {
+      "code": "TSH",
+      "name": "TSH",
+      "value": "5.91",
+      "unit": "uIU/mL",
+      "ref": "0.4 - 4.0",
+      "flag": "H",
+      "bbox_value": [
+        684,
+        577,
+        761,
+        604
+      ],
+      "bbox_row": [
+        94,
+        561,
+        1396,
+        622
+      ]
+    },
+    {
+      "code": "PLATELETS",
+      "name": "Platelet Count",
+      "value": "2.47",
+      "unit": "lakh/uL",
+      "ref": "1.5 - 4.5",
+      "flag": "",
+      "bbox_value": [
+        686,
+        641,
+        762,
+        668
+      ],
+      "bbox_row": [
+        96,
+        624,
+        1397,
+        686
+      ]
+    },
+    {
+      "code": "VITAMIN_D",
+      "name": "Vitamin D",
+      "value": "70.0",
+      "unit": "ng/mL",
+      "ref": "30 - 100",
+      "flag": "",
+      "bbox_value": [
+        688,
+        705,
+        764,
+        732
+      ],
+      "bbox_row": [
+        97,
+        688,
+        1399,
+        754
+      ]
+    },
+    {
+      "code": "HBA1C",
+      "name": "Glycated Hemoglobin",
+      "value": "4.8",
+      "unit": "%",
+      "ref": "4.0 - 5.6",
+      "flag": "",
+      "bbox_value": [
+        689,
+        770,
+        744,
+        796
+      ],
+      "bbox_row": [
+        99,
+        752,
+        1401,
+        818
+      ]
+    },
+    {
+      "code": "UREA",
+      "name": "Urea",
+      "value": "80",
+      "unit": "mg/dL",
+      "ref": "15 - 40",
+      "flag": "H",
+      "bbox_value": [
+        691,
+        834,
+        734,
+        860
+      ],
+      "bbox_row": [
+        101,
+        816,
+        1381,
+        882
+      ]
+    },
+    {
+      "code": "SGPT",
+      "name": "SGPT (ALT)",
+      "value": "140",
+      "unit": "U/L",
+      "ref": "7 - 56",
+      "flag": "H",
+      "bbox_value": [
+        692,
+        897,
+        758,
+        924
+      ],
+      "bbox_row": [
+        103,
+        881,
+        1361,
+        944
+      ]
+    },
+    {
+      "code": "CREATININE",
+      "name": "Creatinine",
+      "value": "2.75",
+      "unit": "mg/dL",
+      "ref": "0.7 - 1.3",
+      "flag": "H",
+      "bbox_value": [
+        694,
+        961,
+        771,
+        988
+      ],
+      "bbox_row": [
+        104,
+        943,
+        1406,
+        1010
+      ]
+    }
+  ],
+  "lines": [
+    "Sunrise Diagnostics",
+    "Department of Laboratory Medicine",
+    "Patient Name: Aarav Sharma",
+    "Patient ID: MF-1015",
+    "Age/Sex: 63 Y / F",
+    "Collection Date : 04-Oct-2025",
+    "Test Result Flag Unit Reference Range",
+    "Total Cholesterol 130 mg/dL < 200",
+    "TSH 5.91 H uIU/mL 0.4 - 4.0",
+    "Platelet Count 2.47 lakh/uL 1.5 - 4.5",
+    "Vitamin D 70.0 ng/mL 30 - 100",
+    "Glycated Hemoglobin 4.8 % 4.0 - 5.6",
+    "Urea 80 H mg/dL 15 - 40",
+    "SGPT (ALT) 140 H U/L 7 - 56",
+    "Creatinine 2.75 H mg/dL 0.7 - 1.3",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1015-2025-10-04-Sunrise Diagnostics"
+}

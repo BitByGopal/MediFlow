@@ -1,0 +1,159 @@
+{
+  "report_id": "R0117",
+  "patient_id": "MF-1014",
+  "patient_name": "Lakshmi Menon",
+  "age": 56,
+  "sex": "M",
+  "date": "2025-07-23",
+  "date_text": "23-Jul-2025",
+  "bbox_date": [
+    1319,
+    335,
+    1518,
+    372
+  ],
+  "lab": "Medilink Clinical Lab",
+  "template": "B",
+  "variant": "hard_scan",
+  "image": "R0117.jpg",
+  "fields": [
+    {
+      "code": "CREATININE",
+      "name": "Serum Creatinine",
+      "value": "1.82",
+      "unit": "mg/dL",
+      "ref": "0.7 - 1.3",
+      "flag": "H",
+      "bbox_value": [
+        712,
+        509,
+        789,
+        536
+      ],
+      "bbox_row": [
+        122,
+        496,
+        1424,
+        555
+      ]
+    },
+    {
+      "code": "TRIGLYCERIDES",
+      "name": "Triglycerides",
+      "value": "333",
+      "unit": "mg/dL",
+      "ref": "< 150",
+      "flag": "H",
+      "bbox_value": [
+        711,
+        573,
+        776,
+        599
+      ],
+      "bbox_row": [
+        121,
+        560,
+        1385,
+        619
+      ]
+    },
+    {
+      "code": "HBA1C",
+      "name": "Glycated Hemoglobin",
+      "value": "9.8",
+      "unit": "%",
+      "ref": "4.0 - 5.6",
+      "flag": "H",
+      "bbox_value": [
+        710,
+        637,
+        764,
+        663
+      ],
+      "bbox_row": [
+        120,
+        624,
+        1421,
+        683
+      ]
+    },
+    {
+      "code": "WBC",
+      "name": "Total WBC Count",
+      "value": "15100",
+      "unit": "cells/uL",
+      "ref": "4000 - 11000",
+      "flag": "H",
+      "bbox_value": [
+        708,
+        701,
+        817,
+        728
+      ],
+      "bbox_row": [
+        118,
+        688,
+        1507,
+        745
+      ]
+    },
+    {
+      "code": "PLATELETS",
+      "name": "Platelets",
+      "value": "1.55",
+      "unit": "lakh/uL",
+      "ref": "1.5 - 4.5",
+      "flag": "",
+      "bbox_value": [
+        707,
+        765,
+        784,
+        792
+      ],
+      "bbox_row": [
+        117,
+        752,
+        1418,
+        807
+      ]
+    },
+    {
+      "code": "HEMOGLOBIN",
+      "name": "Hemoglobin",
+      "value": "16.9",
+      "unit": "g/dL",
+      "ref": "13.0 - 17.0",
+      "flag": "",
+      "bbox_value": [
+        706,
+        829,
+        782,
+        856
+      ],
+      "bbox_row": [
+        116,
+        816,
+        1460,
+        876
+      ]
+    }
+  ],
+  "lines": [
+    "Medilink Clinical Lab",
+    "Department of Laboratory Medicine",
+    "Patient Name: Lakshmi Menon",
+    "Patient ID: MF-1014",
+    "Age/Sex: 56 Y / M",
+    "Collection Date : 23-Jul-2025",
+    "Test Result Flag Unit Reference Range",
+    "Serum Creatinine 1.82 H mg/dL 0.7 - 1.3",
+    "Triglycerides 333 H mg/dL < 150",
+    "Glycated Hemoglobin 9.8 H % 4.0 - 5.6",
+    "Total WBC Count 15100 H cells/uL 4000 - 11000",
+    "Platelets 1.55 lakh/uL 1.5 - 4.5",
+    "Hemoglobin 16.9 g/dL 13.0 - 17.0",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1014-2025-07-23-Medilink Clinical Lab"
+}

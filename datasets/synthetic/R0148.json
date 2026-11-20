@@ -1,0 +1,159 @@
+{
+  "report_id": "R0148",
+  "patient_id": "MF-1017",
+  "patient_name": "Kavya Menon",
+  "age": 38,
+  "sex": "F",
+  "date": "2025-04-24",
+  "date_text": "24/04/2025",
+  "bbox_date": [
+    1323,
+    327,
+    1519,
+    355
+  ],
+  "lab": "Sunrise Diagnostics",
+  "template": "A",
+  "variant": "clean",
+  "image": "R0148.png",
+  "fields": [
+    {
+      "code": "UREA",
+      "name": "Blood Urea",
+      "value": "76",
+      "unit": "mg/dL",
+      "ref": "15 - 40",
+      "flag": "H",
+      "bbox_value": [
+        760,
+        512,
+        803,
+        537
+      ],
+      "bbox_row": [
+        110,
+        511,
+        1370,
+        544
+      ]
+    },
+    {
+      "code": "PLATELETS",
+      "name": "Platelet Count",
+      "value": "1.12",
+      "unit": "lakh/uL",
+      "ref": "1.5 - 4.5",
+      "flag": "L",
+      "bbox_value": [
+        760,
+        576,
+        836,
+        601
+      ],
+      "bbox_row": [
+        110,
+        575,
+        1392,
+        605
+      ]
+    },
+    {
+      "code": "VITAMIN_D",
+      "name": "Vitamin D (25-OH)",
+      "value": "41.0",
+      "unit": "ng/mL",
+      "ref": "30 - 100",
+      "flag": "",
+      "bbox_value": [
+        760,
+        640,
+        836,
+        665
+      ],
+      "bbox_row": [
+        110,
+        639,
+        1392,
+        672
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "Fasting Blood Glucose",
+      "value": "120",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "H",
+      "bbox_value": [
+        760,
+        704,
+        825,
+        729
+      ],
+      "bbox_row": [
+        110,
+        703,
+        1392,
+        736
+      ]
+    },
+    {
+      "code": "HBA1C",
+      "name": "HbA1c",
+      "value": "9.0",
+      "unit": "%",
+      "ref": "4.0 - 5.6",
+      "flag": "H",
+      "bbox_value": [
+        760,
+        768,
+        814,
+        793
+      ],
+      "bbox_row": [
+        110,
+        767,
+        1392,
+        797
+      ]
+    },
+    {
+      "code": "WBC",
+      "name": "WBC Count",
+      "value": "14800",
+      "unit": "cells/uL",
+      "ref": "4000 - 11000",
+      "flag": "H",
+      "bbox_value": [
+        760,
+        832,
+        868,
+        857
+      ],
+      "bbox_row": [
+        110,
+        831,
+        1479,
+        861
+      ]
+    }
+  ],
+  "lines": [
+    "Sunrise Diagnostics",
+    "Department of Laboratory Medicine",
+    "Patient Name: Kavya Menon",
+    "Patient ID: MF-1017",
+    "Age/Sex: 38 Y / F",
+    "Sample Collected: 24/04/2025",
+    "Test Result Unit Reference Range",
+    "Blood Urea 76 (H) mg/dL 15 - 40",
+    "Platelet Count 1.12 (L) lakh/uL 1.5 - 4.5",
+    "Vitamin D (25-OH) 41.0 ng/mL 30 - 100",
+    "Fasting Blood Glucose 120 (H) mg/dL 70 - 100",
+    "HbA1c 9.0 (H) % 4.0 - 5.6",
+    "WBC Count 14800 (H) cells/uL 4000 - 11000",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1017-2025-04-24-Sunrise Diagnostics"
+}

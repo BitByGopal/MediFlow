@@ -1,0 +1,138 @@
+{
+  "report_id": "R0001",
+  "patient_id": "MF-1000",
+  "patient_name": "Rohan Singh",
+  "age": 49,
+  "sex": "M",
+  "date": "2025-01-31",
+  "date_text": "31/01/2025",
+  "bbox_date": [
+    1323,
+    327,
+    1519,
+    355
+  ],
+  "lab": "CarePoint Pathology Lab",
+  "template": "A",
+  "variant": "clean",
+  "image": "R0001.png",
+  "fields": [
+    {
+      "code": "WBC",
+      "name": "Total WBC Count",
+      "value": "11200",
+      "unit": "cells/uL",
+      "ref": "4000 - 11000",
+      "flag": "H",
+      "bbox_value": [
+        760,
+        512,
+        868,
+        537
+      ],
+      "bbox_row": [
+        109,
+        511,
+        1479,
+        541
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "Fasting Blood Glucose",
+      "value": "179",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "H",
+      "bbox_value": [
+        760,
+        576,
+        825,
+        601
+      ],
+      "bbox_row": [
+        110,
+        575,
+        1392,
+        608
+      ]
+    },
+    {
+      "code": "CREATININE",
+      "name": "Creatinine",
+      "value": "0.69",
+      "unit": "mg/dL",
+      "ref": "0.7 - 1.3",
+      "flag": "L",
+      "bbox_value": [
+        760,
+        640,
+        836,
+        665
+      ],
+      "bbox_row": [
+        110,
+        639,
+        1392,
+        672
+      ]
+    },
+    {
+      "code": "HEMOGLOBIN",
+      "name": "Haemoglobin",
+      "value": "14.3",
+      "unit": "g/dL",
+      "ref": "13.0 - 17.0",
+      "flag": "",
+      "bbox_value": [
+        760,
+        704,
+        836,
+        729
+      ],
+      "bbox_row": [
+        110,
+        703,
+        1435,
+        736
+      ]
+    },
+    {
+      "code": "TOTAL_CHOLESTEROL",
+      "name": "Total Cholesterol",
+      "value": "130",
+      "unit": "mg/dL",
+      "ref": "< 200",
+      "flag": "",
+      "bbox_value": [
+        760,
+        768,
+        825,
+        793
+      ],
+      "bbox_row": [
+        109,
+        767,
+        1354,
+        800
+      ]
+    }
+  ],
+  "lines": [
+    "CarePoint Pathology Lab",
+    "Department of Laboratory Medicine",
+    "Patient Name: Rohan Singh",
+    "Patient ID: MF-1000",
+    "Age/Sex: 49 Y / M",
+    "Sample Collected: 31/01/2025",
+    "Test Result Unit Reference Range",
+    "Total WBC Count 11200 (H) cells/uL 4000 - 11000",
+    "Fasting Blood Glucose 179 (H) mg/dL 70 - 100",
+    "Creatinine 0.69 (L) mg/dL 0.7 - 1.3",
+    "Haemoglobin 14.3 g/dL 13.0 - 17.0",
+    "Total Cholesterol 130 mg/dL < 200",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1000-2025-01-31-CarePoint Pathology Lab"
+}

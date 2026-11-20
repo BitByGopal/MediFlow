@@ -1,0 +1,180 @@
+{
+  "report_id": "R0060",
+  "patient_id": "MF-1006",
+  "patient_name": "Ananya Sharma",
+  "age": 29,
+  "sex": "F",
+  "date": "2025-06-16",
+  "date_text": "2025-06-16",
+  "bbox_date": [
+    1126,
+    330,
+    1331,
+    358
+  ],
+  "lab": "Medilink Clinical Lab",
+  "template": "C",
+  "variant": "hard_scan",
+  "image": "R0060.jpg",
+  "fields": [
+    {
+      "code": "PLATELETS",
+      "name": "Platelets",
+      "value": "4.55",
+      "unit": "lakh/uL",
+      "ref": "1.5 - 4.5",
+      "flag": "H",
+      "bbox_value": [
+        828,
+        511,
+        910,
+        538
+      ],
+      "bbox_row": [
+        118,
+        501,
+        1522,
+        548
+      ]
+    },
+    {
+      "code": "TOTAL_CHOLESTEROL",
+      "name": "Serum Cholesterol",
+      "value": "167",
+      "unit": "mg/dL",
+      "ref": "< 200",
+      "flag": "",
+      "bbox_value": [
+        827,
+        575,
+        888,
+        601
+      ],
+      "bbox_row": [
+        117,
+        565,
+        1439,
+        615
+      ]
+    },
+    {
+      "code": "TRIGLYCERIDES",
+      "name": "Triglycerides",
+      "value": "324",
+      "unit": "mg/dL",
+      "ref": "< 150",
+      "flag": "H",
+      "bbox_value": [
+        826,
+        639,
+        887,
+        665
+      ],
+      "bbox_row": [
+        116,
+        629,
+        1438,
+        679
+      ]
+    },
+    {
+      "code": "HEMOGLOBIN",
+      "name": "Haemoglobin",
+      "value": "10.0",
+      "unit": "g/dL",
+      "ref": "13.0 - 17.0",
+      "flag": "L",
+      "bbox_value": [
+        825,
+        703,
+        908,
+        730
+      ],
+      "bbox_row": [
+        115,
+        693,
+        1560,
+        745
+      ]
+    },
+    {
+      "code": "TSH",
+      "name": "Thyroid Stimulating Hormone",
+      "value": "9.97",
+      "unit": "uIU/mL",
+      "ref": "0.4 - 4.0",
+      "flag": "H",
+      "bbox_value": [
+        824,
+        767,
+        907,
+        794
+      ],
+      "bbox_row": [
+        114,
+        757,
+        1519,
+        808
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "Fasting Blood Sugar",
+      "value": "87",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "",
+      "bbox_value": [
+        824,
+        831,
+        865,
+        857
+      ],
+      "bbox_row": [
+        114,
+        821,
+        1498,
+        872
+      ]
+    },
+    {
+      "code": "UREA",
+      "name": "Urea",
+      "value": "65",
+      "unit": "mg/dL",
+      "ref": "15 - 40",
+      "flag": "H",
+      "bbox_value": [
+        823,
+        895,
+        864,
+        921
+      ],
+      "bbox_row": [
+        113,
+        885,
+        1476,
+        936
+      ]
+    }
+  ],
+  "lines": [
+    "Medilink Clinical Lab",
+    "Department of Laboratory Medicine",
+    "Patient Name: Ananya Sharma",
+    "Patient ID: MF-1006",
+    "Age/Sex: 29 Y / F",
+    "Date: 2025-06-16",
+    "Test Result Flag Unit Reference Range",
+    "Platelets 4.55 H lakh/uL 1.5 - 4.5",
+    "Serum Cholesterol 167 mg/dL < 200",
+    "Triglycerides 324 H mg/dL < 150",
+    "Haemoglobin 10.0 L g/dL 13.0 - 17.0",
+    "Thyroid Stimulating Hormone 9.97 H uIU/mL 0.4 - 4.0",
+    "Fasting Blood Sugar 87 mg/dL 70 - 100",
+    "Urea 65 H mg/dL 15 - 40",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1006-2025-06-16-Medilink Clinical Lab"
+}

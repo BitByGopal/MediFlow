@@ -1,0 +1,180 @@
+{
+  "report_id": "R0045",
+  "patient_id": "MF-1004",
+  "patient_name": "Rahul Kaur",
+  "age": 44,
+  "sex": "M",
+  "date": "2025-12-05",
+  "date_text": "05-Dec-2025",
+  "bbox_date": [
+    1322,
+    338,
+    1542,
+    369
+  ],
+  "lab": "Sunrise Diagnostics",
+  "template": "B",
+  "variant": "hard_scan",
+  "image": "R0045.jpg",
+  "fields": [
+    {
+      "code": "TSH",
+      "name": "Thyroid Stimulating Hormone",
+      "value": "3.88",
+      "unit": "uIU/mL",
+      "ref": "0.4 - 4.0",
+      "flag": "",
+      "bbox_value": [
+        715,
+        509,
+        791,
+        535
+      ],
+      "bbox_row": [
+        125,
+        493,
+        1426,
+        558
+      ]
+    },
+    {
+      "code": "WBC",
+      "name": "Total Leucocyte Count",
+      "value": "4400",
+      "unit": "cells/uL",
+      "ref": "4000 - 11000",
+      "flag": "",
+      "bbox_value": [
+        713,
+        573,
+        801,
+        600
+      ],
+      "bbox_row": [
+        123,
+        557,
+        1512,
+        624
+      ]
+    },
+    {
+      "code": "VITAMIN_D",
+      "name": "Vitamin D (25-OH)",
+      "value": "56.3",
+      "unit": "ng/mL",
+      "ref": "30 - 100",
+      "flag": "",
+      "bbox_value": [
+        712,
+        637,
+        788,
+        663
+      ],
+      "bbox_row": [
+        121,
+        621,
+        1423,
+        686
+      ]
+    },
+    {
+      "code": "SGPT",
+      "name": "SGPT",
+      "value": "140",
+      "unit": "U/L",
+      "ref": "7 - 56",
+      "flag": "H",
+      "bbox_value": [
+        710,
+        701,
+        776,
+        727
+      ],
+      "bbox_row": [
+        120,
+        686,
+        1379,
+        745
+      ]
+    },
+    {
+      "code": "TOTAL_CHOLESTEROL",
+      "name": "Total Cholesterol",
+      "value": "239",
+      "unit": "mg/dL",
+      "ref": "< 200",
+      "flag": "H",
+      "bbox_value": [
+        709,
+        765,
+        774,
+        791
+      ],
+      "bbox_row": [
+        119,
+        749,
+        1383,
+        813
+      ]
+    },
+    {
+      "code": "CREATININE",
+      "name": "Creatinine",
+      "value": "1.72",
+      "unit": "mg/dL",
+      "ref": "0.7 - 1.3",
+      "flag": "H",
+      "bbox_value": [
+        707,
+        829,
+        784,
+        855
+      ],
+      "bbox_row": [
+        117,
+        813,
+        1419,
+        878
+      ]
+    },
+    {
+      "code": "TRIGLYCERIDES",
+      "name": "Triglycerides",
+      "value": "142",
+      "unit": "mg/dL",
+      "ref": "< 150",
+      "flag": "",
+      "bbox_value": [
+        706,
+        893,
+        771,
+        919
+      ],
+      "bbox_row": [
+        116,
+        877,
+        1380,
+        941
+      ]
+    }
+  ],
+  "lines": [
+    "Sunrise Diagnostics",
+    "Department of Laboratory Medicine",
+    "Patient Name: Rahul Kaur",
+    "Patient ID: MF-1004",
+    "Age/Sex: 44 Y / M",
+    "Collection Date : 05-Dec-2025",
+    "Test Result Flag Unit Reference Range",
+    "Thyroid Stimulating Hormone 3.88 uIU/mL 0.4 - 4.0",
+    "Total Leucocyte Count 4400 cells/uL 4000 - 11000",
+    "Vitamin D (25-OH) 56.3 ng/mL 30 - 100",
+    "SGPT 140 H U/L 7 - 56",
+    "Total Cholesterol 239 H mg/dL < 200",
+    "Creatinine 1.72 H mg/dL 0.7 - 1.3",
+    "Triglycerides 142 mg/dL < 150",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1004-2025-12-05-Sunrise Diagnostics"
+}

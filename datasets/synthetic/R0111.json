@@ -1,0 +1,201 @@
+{
+  "report_id": "R0111",
+  "patient_id": "MF-1013",
+  "patient_name": "Karthik Reddy",
+  "age": 47,
+  "sex": "M",
+  "date": "2025-10-08",
+  "date_text": "08/10/2025",
+  "bbox_date": [
+    1354,
+    346,
+    1551,
+    382
+  ],
+  "lab": "CarePoint Pathology Lab",
+  "template": "A",
+  "variant": "hard_scan",
+  "image": "R0111.jpg",
+  "fields": [
+    {
+      "code": "PLATELETS",
+      "name": "Platelets",
+      "value": "1.81",
+      "unit": "lakh/uL",
+      "ref": "1.5 - 4.5",
+      "flag": "",
+      "bbox_value": [
+        784,
+        509,
+        861,
+        537
+      ],
+      "bbox_row": [
+        134,
+        483,
+        1417,
+        562
+      ]
+    },
+    {
+      "code": "TRIGLYCERIDES",
+      "name": "Triglycerides",
+      "value": "139",
+      "unit": "mg/dL",
+      "ref": "< 150",
+      "flag": "",
+      "bbox_value": [
+        782,
+        573,
+        847,
+        601
+      ],
+      "bbox_row": [
+        131,
+        547,
+        1376,
+        628
+      ]
+    },
+    {
+      "code": "HEMOGLOBIN",
+      "name": "Hemoglobin",
+      "value": "17.7",
+      "unit": "g/dL",
+      "ref": "13.0 - 17.0",
+      "flag": "H",
+      "bbox_value": [
+        779,
+        637,
+        856,
+        665
+      ],
+      "bbox_row": [
+        129,
+        611,
+        1455,
+        695
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "Fasting Blood Glucose",
+      "value": "179",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "H",
+      "bbox_value": [
+        777,
+        701,
+        843,
+        729
+      ],
+      "bbox_row": [
+        127,
+        675,
+        1409,
+        758
+      ]
+    },
+    {
+      "code": "CREATININE",
+      "name": "Creatinine",
+      "value": "0.67",
+      "unit": "mg/dL",
+      "ref": "0.7 - 1.3",
+      "flag": "L",
+      "bbox_value": [
+        774,
+        765,
+        851,
+        793
+      ],
+      "bbox_row": [
+        124,
+        739,
+        1407,
+        822
+      ]
+    },
+    {
+      "code": "WBC",
+      "name": "Total WBC Count",
+      "value": "4200",
+      "unit": "cells/uL",
+      "ref": "4000 - 11000",
+      "flag": "",
+      "bbox_value": [
+        772,
+        829,
+        860,
+        858
+      ],
+      "bbox_row": [
+        121,
+        803,
+        1491,
+        885
+      ]
+    },
+    {
+      "code": "SGPT",
+      "name": "ALT",
+      "value": "68",
+      "unit": "U/L",
+      "ref": "7 - 56",
+      "flag": "H",
+      "bbox_value": [
+        769,
+        893,
+        813,
+        920
+      ],
+      "bbox_row": [
+        120,
+        867,
+        1359,
+        945
+      ]
+    },
+    {
+      "code": "HBA1C",
+      "name": "HbA1c",
+      "value": "8.2",
+      "unit": "%",
+      "ref": "4.0 - 5.6",
+      "flag": "H",
+      "bbox_value": [
+        767,
+        957,
+        822,
+        984
+      ],
+      "bbox_row": [
+        117,
+        931,
+        1399,
+        1011
+      ]
+    }
+  ],
+  "lines": [
+    "CarePoint Pathology Lab",
+    "Department of Laboratory Medicine",
+    "Patient Name: Karthik Reddy",
+    "Patient ID: MF-1013",
+    "Age/Sex: 47 Y / M",
+    "Sample Collected: 08/10/2025",
+    "Test Result Unit Reference Range",
+    "Platelets 1.81 lakh/uL 1.5 - 4.5",
+    "Triglycerides 139 mg/dL < 150",
+    "Hemoglobin 17.7 (H) g/dL 13.0 - 17.0",
+    "Fasting Blood Glucose 179 (H) mg/dL 70 - 100",
+    "Creatinine 0.67 (L) mg/dL 0.7 - 1.3",
+    "Total WBC Count 4200 cells/uL 4000 - 11000",
+    "ALT 68 (H) U/L 7 - 56",
+    "HbA1c 8.2 (H) % 4.0 - 5.6",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1013-2025-10-08-CarePoint Pathology Lab"
+}

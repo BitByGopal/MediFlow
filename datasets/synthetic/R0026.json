@@ -1,0 +1,138 @@
+{
+  "report_id": "R0026",
+  "patient_id": "MF-1003",
+  "patient_name": "Imran Menon",
+  "age": 46,
+  "sex": "F",
+  "date": "2025-04-27",
+  "date_text": "27-Apr-2025",
+  "bbox_date": [
+    1307,
+    329,
+    1522,
+    362
+  ],
+  "lab": "Medilink Clinical Lab",
+  "template": "B",
+  "variant": "scan",
+  "image": "R0026.jpg",
+  "fields": [
+    {
+      "code": "TOTAL_CHOLESTEROL",
+      "name": "Serum Cholesterol",
+      "value": "207",
+      "unit": "mg/dL",
+      "ref": "< 200",
+      "flag": "H",
+      "bbox_value": [
+        703,
+        511,
+        768,
+        536
+      ],
+      "bbox_row": [
+        113,
+        507,
+        1377,
+        546
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "Fasting Blood Glucose",
+      "value": "189",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "H",
+      "bbox_value": [
+        702,
+        575,
+        768,
+        600
+      ],
+      "bbox_row": [
+        112,
+        571,
+        1414,
+        611
+      ]
+    },
+    {
+      "code": "SGPT",
+      "name": "SGPT",
+      "value": "19",
+      "unit": "U/L",
+      "ref": "7 - 56",
+      "flag": "",
+      "bbox_value": [
+        702,
+        639,
+        745,
+        664
+      ],
+      "bbox_row": [
+        112,
+        636,
+        1370,
+        670
+      ]
+    },
+    {
+      "code": "TSH",
+      "name": "TSH",
+      "value": "11.36",
+      "unit": "uIU/mL",
+      "ref": "0.4 - 4.0",
+      "flag": "H",
+      "bbox_value": [
+        702,
+        703,
+        799,
+        728
+      ],
+      "bbox_row": [
+        112,
+        700,
+        1413,
+        735
+      ]
+    },
+    {
+      "code": "PLATELETS",
+      "name": "Platelets",
+      "value": "3.83",
+      "unit": "lakh/uL",
+      "ref": "1.5 - 4.5",
+      "flag": "",
+      "bbox_value": [
+        701,
+        767,
+        778,
+        792
+      ],
+      "bbox_row": [
+        111,
+        763,
+        1413,
+        799
+      ]
+    }
+  ],
+  "lines": [
+    "Medilink Clinical Lab",
+    "Department of Laboratory Medicine",
+    "Patient Name: Imran Menon",
+    "Patient ID: MF-1003",
+    "Age/Sex: 46 Y / F",
+    "Collection Date : 27-Apr-2025",
+    "Test Result Flag Unit Reference Range",
+    "Serum Cholesterol 207 H mg/dL < 200",
+    "Fasting Blood Glucose 189 H mg/dL 70 - 100",
+    "SGPT 19 U/L 7 - 56",
+    "TSH 11.36 H uIU/mL 0.4 - 4.0",
+    "Platelets 3.83 lakh/uL 1.5 - 4.5",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1003-2025-04-27-Medilink Clinical Lab"
+}

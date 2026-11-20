@@ -1,0 +1,138 @@
+{
+  "report_id": "R0140",
+  "patient_id": "MF-1016",
+  "patient_name": "Aarav Patel",
+  "age": 46,
+  "sex": "F",
+  "date": "2026-01-09",
+  "date_text": "09-Jan-2026",
+  "bbox_date": [
+    1311,
+    332,
+    1520,
+    366
+  ],
+  "lab": "CarePoint Pathology Lab",
+  "template": "B",
+  "variant": "scan",
+  "image": "R0140.jpg",
+  "fields": [
+    {
+      "code": "WBC",
+      "name": "Total Leucocyte Count",
+      "value": "12000",
+      "unit": "cells/uL",
+      "ref": "4000 - 11000",
+      "flag": "H",
+      "bbox_value": [
+        706,
+        510,
+        815,
+        536
+      ],
+      "bbox_row": [
+        116,
+        503,
+        1505,
+        551
+      ]
+    },
+    {
+      "code": "CREATININE",
+      "name": "Creatinine",
+      "value": "2.64",
+      "unit": "mg/dL",
+      "ref": "0.7 - 1.3",
+      "flag": "H",
+      "bbox_value": [
+        706,
+        574,
+        782,
+        600
+      ],
+      "bbox_row": [
+        116,
+        567,
+        1417,
+        614
+      ]
+    },
+    {
+      "code": "SGPT",
+      "name": "ALT",
+      "value": "74",
+      "unit": "U/L",
+      "ref": "7 - 56",
+      "flag": "H",
+      "bbox_value": [
+        705,
+        638,
+        748,
+        664
+      ],
+      "bbox_row": [
+        114,
+        632,
+        1373,
+        673
+      ]
+    },
+    {
+      "code": "TOTAL_CHOLESTEROL",
+      "name": "Total Cholesterol",
+      "value": "154",
+      "unit": "mg/dL",
+      "ref": "< 200",
+      "flag": "",
+      "bbox_value": [
+        704,
+        702,
+        769,
+        728
+      ],
+      "bbox_row": [
+        114,
+        695,
+        1378,
+        741
+      ]
+    },
+    {
+      "code": "UREA",
+      "name": "Blood Urea",
+      "value": "12",
+      "unit": "mg/dL",
+      "ref": "15 - 40",
+      "flag": "L",
+      "bbox_value": [
+        704,
+        766,
+        747,
+        792
+      ],
+      "bbox_row": [
+        113,
+        759,
+        1394,
+        806
+      ]
+    }
+  ],
+  "lines": [
+    "CarePoint Pathology Lab",
+    "Department of Laboratory Medicine",
+    "Patient Name: Aarav Patel",
+    "Patient ID: MF-1016",
+    "Age/Sex: 46 Y / F",
+    "Collection Date : 09-Jan-2026",
+    "Test Result Flag Unit Reference Range",
+    "Total Leucocyte Count 12000 H cells/uL 4000 - 11000",
+    "Creatinine 2.64 H mg/dL 0.7 - 1.3",
+    "ALT 74 H U/L 7 - 56",
+    "Total Cholesterol 154 mg/dL < 200",
+    "Blood Urea 12 L mg/dL 15 - 40",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1016-2026-01-09-CarePoint Pathology Lab"
+}

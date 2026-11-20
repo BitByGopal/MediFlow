@@ -1,0 +1,180 @@
+{
+  "report_id": "R0177",
+  "patient_id": "MF-1019",
+  "patient_name": "Sneha Kaur",
+  "age": 51,
+  "sex": "F",
+  "date": "2025-09-06",
+  "date_text": "06/09/2025",
+  "bbox_date": [
+    1299,
+    308,
+    1496,
+    341
+  ],
+  "lab": "CarePoint Pathology Lab",
+  "template": "A",
+  "variant": "hard_scan",
+  "image": "R0177.jpg",
+  "fields": [
+    {
+      "code": "VITAMIN_D",
+      "name": "Vitamin D (25-OH)",
+      "value": "15.6",
+      "unit": "ng/mL",
+      "ref": "30 - 100",
+      "flag": "L",
+      "bbox_value": [
+        742,
+        511,
+        818,
+        539
+      ],
+      "bbox_row": [
+        92,
+        495,
+        1374,
+        563
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "Fasting Blood Sugar",
+      "value": "253",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "H",
+      "bbox_value": [
+        743,
+        576,
+        809,
+        603
+      ],
+      "bbox_row": [
+        94,
+        559,
+        1376,
+        627
+      ]
+    },
+    {
+      "code": "UREA",
+      "name": "Urea",
+      "value": "77",
+      "unit": "mg/dL",
+      "ref": "15 - 40",
+      "flag": "H",
+      "bbox_value": [
+        745,
+        640,
+        789,
+        667
+      ],
+      "bbox_row": [
+        95,
+        624,
+        1356,
+        691
+      ]
+    },
+    {
+      "code": "TOTAL_CHOLESTEROL",
+      "name": "Serum Cholesterol",
+      "value": "226",
+      "unit": "mg/dL",
+      "ref": "< 200",
+      "flag": "H",
+      "bbox_value": [
+        747,
+        704,
+        813,
+        730
+      ],
+      "bbox_row": [
+        97,
+        688,
+        1342,
+        755
+      ]
+    },
+    {
+      "code": "PLATELETS",
+      "name": "Platelets",
+      "value": "1.07",
+      "unit": "lakh/uL",
+      "ref": "1.5 - 4.5",
+      "flag": "L",
+      "bbox_value": [
+        749,
+        767,
+        825,
+        794
+      ],
+      "bbox_row": [
+        99,
+        751,
+        1381,
+        816
+      ]
+    },
+    {
+      "code": "CREATININE",
+      "name": "Serum Creatinine",
+      "value": "2.01",
+      "unit": "mg/dL",
+      "ref": "0.7 - 1.3",
+      "flag": "H",
+      "bbox_value": [
+        750,
+        831,
+        827,
+        858
+      ],
+      "bbox_row": [
+        101,
+        815,
+        1383,
+        883
+      ]
+    },
+    {
+      "code": "TSH",
+      "name": "Thyroid Stimulating Hormone",
+      "value": "6.09",
+      "unit": "uIU/mL",
+      "ref": "0.4 - 4.0",
+      "flag": "H",
+      "bbox_value": [
+        752,
+        895,
+        829,
+        922
+      ],
+      "bbox_row": [
+        101,
+        879,
+        1385,
+        947
+      ]
+    }
+  ],
+  "lines": [
+    "CarePoint Pathology Lab",
+    "Department of Laboratory Medicine",
+    "Patient Name: Sneha Kaur",
+    "Patient ID: MF-1019",
+    "Age/Sex: 51 Y / F",
+    "Sample Collected: 06/09/2025",
+    "Test Result Unit Reference Range",
+    "Vitamin D (25-OH) 15.6 (L) ng/mL 30 - 100",
+    "Fasting Blood Sugar 253 (H) mg/dL 70 - 100",
+    "Urea 77 (H) mg/dL 15 - 40",
+    "Serum Cholesterol 226 (H) mg/dL < 200",
+    "Platelets 1.07 (L) lakh/uL 1.5 - 4.5",
+    "Serum Creatinine 2.01 (H) mg/dL 0.7 - 1.3",
+    "Thyroid Stimulating Hormone 6.09 (H) uIU/mL 0.4 - 4.0",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1019-2025-09-06-CarePoint Pathology Lab"
+}

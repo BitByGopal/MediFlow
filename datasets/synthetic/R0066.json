@@ -1,0 +1,138 @@
+{
+  "report_id": "R0066",
+  "patient_id": "MF-1007",
+  "patient_name": "Harpreet Verma",
+  "age": 24,
+  "sex": "F",
+  "date": "2025-08-13",
+  "date_text": "13/08/2025",
+  "bbox_date": [
+    1326,
+    329,
+    1522,
+    357
+  ],
+  "lab": "Sunrise Diagnostics",
+  "template": "A",
+  "variant": "hard_scan",
+  "image": "R0066.jpg",
+  "fields": [
+    {
+      "code": "SGPT",
+      "name": "ALT",
+      "value": "53",
+      "unit": "U/L",
+      "ref": "7 - 56",
+      "flag": "",
+      "bbox_value": [
+        762,
+        511,
+        805,
+        536
+      ],
+      "bbox_row": [
+        112,
+        508,
+        1351,
+        542
+      ]
+    },
+    {
+      "code": "WBC",
+      "name": "Total Leucocyte Count",
+      "value": "9200",
+      "unit": "cells/uL",
+      "ref": "4000 - 11000",
+      "flag": "",
+      "bbox_value": [
+        762,
+        575,
+        849,
+        601
+      ],
+      "bbox_row": [
+        111,
+        571,
+        1481,
+        610
+      ]
+    },
+    {
+      "code": "VITAMIN_D",
+      "name": "Vitamin D",
+      "value": "52.9",
+      "unit": "ng/mL",
+      "ref": "30 - 100",
+      "flag": "",
+      "bbox_value": [
+        762,
+        639,
+        838,
+        665
+      ],
+      "bbox_row": [
+        112,
+        635,
+        1394,
+        674
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "Fasting Blood Sugar",
+      "value": "201",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "H",
+      "bbox_value": [
+        761,
+        703,
+        827,
+        728
+      ],
+      "bbox_row": [
+        111,
+        699,
+        1393,
+        738
+      ]
+    },
+    {
+      "code": "PLATELETS",
+      "name": "Platelet Count",
+      "value": "3.36",
+      "unit": "lakh/uL",
+      "ref": "1.5 - 4.5",
+      "flag": "",
+      "bbox_value": [
+        761,
+        767,
+        837,
+        793
+      ],
+      "bbox_row": [
+        111,
+        763,
+        1393,
+        798
+      ]
+    }
+  ],
+  "lines": [
+    "Sunrise Diagnostics",
+    "Department of Laboratory Medicine",
+    "Patient Name: Harpreet Verma",
+    "Patient ID: MF-1007",
+    "Age/Sex: 24 Y / F",
+    "Sample Collected: 13/08/2025",
+    "Test Result Unit Reference Range",
+    "ALT 53 U/L 7 - 56",
+    "Total Leucocyte Count 9200 cells/uL 4000 - 11000",
+    "Vitamin D 52.9 ng/mL 30 - 100",
+    "Fasting Blood Sugar 201 (H) mg/dL 70 - 100",
+    "Platelet Count 3.36 lakh/uL 1.5 - 4.5",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1007-2025-08-13-Sunrise Diagnostics"
+}

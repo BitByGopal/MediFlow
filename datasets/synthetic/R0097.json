@@ -1,0 +1,180 @@
+{
+  "report_id": "R0097",
+  "patient_id": "MF-1012",
+  "patient_name": "Priya Verma",
+  "age": 71,
+  "sex": "F",
+  "date": "2025-01-17",
+  "date_text": "17-Jan-2025",
+  "bbox_date": [
+    1303,
+    327,
+    1512,
+    359
+  ],
+  "lab": "Sunrise Diagnostics",
+  "template": "B",
+  "variant": "clean",
+  "image": "R0097.png",
+  "fields": [
+    {
+      "code": "TRIGLYCERIDES",
+      "name": "Triglycerides",
+      "value": "353",
+      "unit": "mg/dL",
+      "ref": "< 150",
+      "flag": "H",
+      "bbox_value": [
+        700,
+        512,
+        765,
+        537
+      ],
+      "bbox_row": [
+        110,
+        511,
+        1374,
+        544
+      ]
+    },
+    {
+      "code": "HEMOGLOBIN",
+      "name": "Haemoglobin",
+      "value": "13.1",
+      "unit": "g/dL",
+      "ref": "13.0 - 17.0",
+      "flag": "",
+      "bbox_value": [
+        700,
+        576,
+        776,
+        601
+      ],
+      "bbox_row": [
+        110,
+        575,
+        1454,
+        608
+      ]
+    },
+    {
+      "code": "PLATELETS",
+      "name": "Platelets",
+      "value": "4.09",
+      "unit": "lakh/uL",
+      "ref": "1.5 - 4.5",
+      "flag": "",
+      "bbox_value": [
+        700,
+        640,
+        776,
+        665
+      ],
+      "bbox_row": [
+        110,
+        639,
+        1411,
+        668
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "Fasting Blood Sugar",
+      "value": "181",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "H",
+      "bbox_value": [
+        700,
+        704,
+        765,
+        729
+      ],
+      "bbox_row": [
+        110,
+        703,
+        1411,
+        736
+      ]
+    },
+    {
+      "code": "VITAMIN_D",
+      "name": "Vitamin D",
+      "value": "38.8",
+      "unit": "ng/mL",
+      "ref": "30 - 100",
+      "flag": "",
+      "bbox_value": [
+        700,
+        768,
+        776,
+        793
+      ],
+      "bbox_row": [
+        109,
+        767,
+        1411,
+        800
+      ]
+    },
+    {
+      "code": "UREA",
+      "name": "Urea",
+      "value": "41",
+      "unit": "mg/dL",
+      "ref": "15 - 40",
+      "flag": "H",
+      "bbox_value": [
+        700,
+        832,
+        743,
+        857
+      ],
+      "bbox_row": [
+        110,
+        831,
+        1390,
+        864
+      ]
+    },
+    {
+      "code": "WBC",
+      "name": "WBC Count",
+      "value": "5100",
+      "unit": "cells/uL",
+      "ref": "4000 - 11000",
+      "flag": "",
+      "bbox_value": [
+        700,
+        896,
+        787,
+        921
+      ],
+      "bbox_row": [
+        110,
+        895,
+        1498,
+        924
+      ]
+    }
+  ],
+  "lines": [
+    "Sunrise Diagnostics",
+    "Department of Laboratory Medicine",
+    "Patient Name: Priya Verma",
+    "Patient ID: MF-1012",
+    "Age/Sex: 71 Y / F",
+    "Collection Date : 17-Jan-2025",
+    "Test Result Flag Unit Reference Range",
+    "Triglycerides 353 H mg/dL < 150",
+    "Haemoglobin 13.1 g/dL 13.0 - 17.0",
+    "Platelets 4.09 lakh/uL 1.5 - 4.5",
+    "Fasting Blood Sugar 181 H mg/dL 70 - 100",
+    "Vitamin D 38.8 ng/mL 30 - 100",
+    "Urea 41 H mg/dL 15 - 40",
+    "WBC Count 5100 cells/uL 4000 - 11000",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1012-2025-01-17-Sunrise Diagnostics"
+}

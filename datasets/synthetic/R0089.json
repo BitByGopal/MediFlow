@@ -1,0 +1,159 @@
+{
+  "report_id": "R0089",
+  "patient_id": "MF-1011",
+  "patient_name": "Divya Iyer",
+  "age": 38,
+  "sex": "F",
+  "date": "2025-01-07",
+  "date_text": "07/01/2025",
+  "bbox_date": [
+    1330,
+    331,
+    1526,
+    361
+  ],
+  "lab": "Medilink Clinical Lab",
+  "template": "A",
+  "variant": "scan",
+  "image": "R0089.jpg",
+  "fields": [
+    {
+      "code": "TRIGLYCERIDES",
+      "name": "Triglycerides",
+      "value": "123",
+      "unit": "mg/dL",
+      "ref": "< 150",
+      "flag": "",
+      "bbox_value": [
+        765,
+        511,
+        830,
+        537
+      ],
+      "bbox_row": [
+        114,
+        504,
+        1359,
+        548
+      ]
+    },
+    {
+      "code": "SGPT",
+      "name": "SGPT",
+      "value": "67",
+      "unit": "U/L",
+      "ref": "7 - 56",
+      "flag": "H",
+      "bbox_value": [
+        765,
+        575,
+        808,
+        600
+      ],
+      "bbox_row": [
+        115,
+        568,
+        1354,
+        609
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "FBS",
+      "value": "204",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "H",
+      "bbox_value": [
+        764,
+        639,
+        829,
+        665
+      ],
+      "bbox_row": [
+        114,
+        632,
+        1396,
+        677
+      ]
+    },
+    {
+      "code": "TSH",
+      "name": "TSH",
+      "value": "3.84",
+      "unit": "uIU/mL",
+      "ref": "0.4 - 4.0",
+      "flag": "",
+      "bbox_value": [
+        763,
+        703,
+        840,
+        729
+      ],
+      "bbox_row": [
+        112,
+        697,
+        1396,
+        737
+      ]
+    },
+    {
+      "code": "HBA1C",
+      "name": "HbA1c",
+      "value": "5.3",
+      "unit": "%",
+      "ref": "4.0 - 5.6",
+      "flag": "",
+      "bbox_value": [
+        763,
+        767,
+        817,
+        792
+      ],
+      "bbox_row": [
+        113,
+        760,
+        1395,
+        798
+      ]
+    },
+    {
+      "code": "PLATELETS",
+      "name": "Platelets",
+      "value": "1.13",
+      "unit": "lakh/uL",
+      "ref": "1.5 - 4.5",
+      "flag": "L",
+      "bbox_value": [
+        762,
+        831,
+        839,
+        857
+      ],
+      "bbox_row": [
+        112,
+        824,
+        1395,
+        866
+      ]
+    }
+  ],
+  "lines": [
+    "Medilink Clinical Lab",
+    "Department of Laboratory Medicine",
+    "Patient Name: Divya Iyer",
+    "Patient ID: MF-1011",
+    "Age/Sex: 38 Y / F",
+    "Sample Collected: 07/01/2025",
+    "Test Result Unit Reference Range",
+    "Triglycerides 123 mg/dL < 150",
+    "SGPT 67 (H) U/L 7 - 56",
+    "FBS 204 (H) mg/dL 70 - 100",
+    "TSH 3.84 uIU/mL 0.4 - 4.0",
+    "HbA1c 5.3 % 4.0 - 5.6",
+    "Platelets 1.13 (L) lakh/uL 1.5 - 4.5",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1011-2025-01-07-Medilink Clinical Lab"
+}

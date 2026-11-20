@@ -1,0 +1,138 @@
+{
+  "report_id": "R0050",
+  "patient_id": "MF-1005",
+  "patient_name": "Rahul Verma",
+  "age": 31,
+  "sex": "F",
+  "date": "2025-06-12",
+  "date_text": "12/06/2025",
+  "bbox_date": [
+    1329,
+    331,
+    1525,
+    360
+  ],
+  "lab": "Medilink Clinical Lab",
+  "template": "A",
+  "variant": "scan",
+  "image": "R0050.jpg",
+  "fields": [
+    {
+      "code": "CREATININE",
+      "name": "Serum Creatinine",
+      "value": "2.82",
+      "unit": "mg/dL",
+      "ref": "0.7 - 1.3",
+      "flag": "H",
+      "bbox_value": [
+        765,
+        511,
+        841,
+        537
+      ],
+      "bbox_row": [
+        115,
+        505,
+        1397,
+        548
+      ]
+    },
+    {
+      "code": "WBC",
+      "name": "Total Leucocyte Count",
+      "value": "7600",
+      "unit": "cells/uL",
+      "ref": "4000 - 11000",
+      "flag": "",
+      "bbox_value": [
+        764,
+        575,
+        851,
+        601
+      ],
+      "bbox_row": [
+        113,
+        569,
+        1483,
+        613
+      ]
+    },
+    {
+      "code": "UREA",
+      "name": "Blood Urea",
+      "value": "57",
+      "unit": "mg/dL",
+      "ref": "15 - 40",
+      "flag": "H",
+      "bbox_value": [
+        764,
+        639,
+        807,
+        664
+      ],
+      "bbox_row": [
+        114,
+        633,
+        1374,
+        676
+      ]
+    },
+    {
+      "code": "TRIGLYCERIDES",
+      "name": "Triglycerides",
+      "value": "113",
+      "unit": "mg/dL",
+      "ref": "< 150",
+      "flag": "",
+      "bbox_value": [
+        763,
+        703,
+        828,
+        728
+      ],
+      "bbox_row": [
+        112,
+        697,
+        1357,
+        740
+      ]
+    },
+    {
+      "code": "HBA1C",
+      "name": "HbA1c",
+      "value": "6.3",
+      "unit": "%",
+      "ref": "4.0 - 5.6",
+      "flag": "H",
+      "bbox_value": [
+        763,
+        767,
+        817,
+        792
+      ],
+      "bbox_row": [
+        113,
+        761,
+        1395,
+        801
+      ]
+    }
+  ],
+  "lines": [
+    "Medilink Clinical Lab",
+    "Department of Laboratory Medicine",
+    "Patient Name: Rahul Verma",
+    "Patient ID: MF-1005",
+    "Age/Sex: 31 Y / F",
+    "Sample Collected: 12/06/2025",
+    "Test Result Unit Reference Range",
+    "Serum Creatinine 2.82 (H) mg/dL 0.7 - 1.3",
+    "Total Leucocyte Count 7600 cells/uL 4000 - 11000",
+    "Blood Urea 57 (H) mg/dL 15 - 40",
+    "Triglycerides 113 mg/dL < 150",
+    "HbA1c 6.3 (H) % 4.0 - 5.6",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1005-2025-06-12-Medilink Clinical Lab"
+}

@@ -1,0 +1,138 @@
+{
+  "report_id": "R0008",
+  "patient_id": "MF-1000",
+  "patient_name": "Rohan Singh",
+  "age": 49,
+  "sex": "M",
+  "date": "2025-05-08",
+  "date_text": "2025-05-08",
+  "bbox_date": [
+    1094,
+    314,
+    1300,
+    344
+  ],
+  "lab": "Sunrise Diagnostics",
+  "template": "C",
+  "variant": "scan",
+  "image": "R0008.jpg",
+  "fields": [
+    {
+      "code": "WBC",
+      "name": "Total WBC Count",
+      "value": "8800",
+      "unit": "cells/uL",
+      "ref": "4000 - 11000",
+      "flag": "",
+      "bbox_value": [
+        803,
+        510,
+        886,
+        537
+      ],
+      "bbox_row": [
+        93,
+        492,
+        1559,
+        558
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "Fasting Blood Glucose",
+      "value": "156",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "H",
+      "bbox_value": [
+        805,
+        574,
+        866,
+        601
+      ],
+      "bbox_row": [
+        95,
+        558,
+        1479,
+        626
+      ]
+    },
+    {
+      "code": "CREATININE",
+      "name": "Creatinine",
+      "value": "0.60",
+      "unit": "mg/dL",
+      "ref": "0.7 - 1.3",
+      "flag": "L",
+      "bbox_value": [
+        806,
+        638,
+        889,
+        665
+      ],
+      "bbox_row": [
+        96,
+        621,
+        1501,
+        690
+      ]
+    },
+    {
+      "code": "HEMOGLOBIN",
+      "name": "Haemoglobin",
+      "value": "13.0",
+      "unit": "g/dL",
+      "ref": "13.0 - 17.0",
+      "flag": "",
+      "bbox_value": [
+        808,
+        702,
+        890,
+        729
+      ],
+      "bbox_row": [
+        98,
+        684,
+        1543,
+        754
+      ]
+    },
+    {
+      "code": "TOTAL_CHOLESTEROL",
+      "name": "Total Cholesterol",
+      "value": "137",
+      "unit": "mg/dL",
+      "ref": "< 200",
+      "flag": "",
+      "bbox_value": [
+        809,
+        766,
+        871,
+        793
+      ],
+      "bbox_row": [
+        100,
+        751,
+        1422,
+        818
+      ]
+    }
+  ],
+  "lines": [
+    "Sunrise Diagnostics",
+    "Department of Laboratory Medicine",
+    "Patient Name: Rohan Singh",
+    "Patient ID: MF-1000",
+    "Age/Sex: 49 Y / M",
+    "Date: 2025-05-08",
+    "Test Result Flag Unit Reference Range",
+    "Total WBC Count 8800 cells/uL 4000 - 11000",
+    "Fasting Blood Glucose 156 H mg/dL 70 - 100",
+    "Creatinine 0.60 L mg/dL 0.7 - 1.3",
+    "Haemoglobin 13.0 g/dL 13.0 - 17.0",
+    "Total Cholesterol 137 mg/dL < 200",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1000-2025-05-08-Sunrise Diagnostics"
+}

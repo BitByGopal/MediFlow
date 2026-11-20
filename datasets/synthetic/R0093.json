@@ -1,0 +1,159 @@
+{
+  "report_id": "R0093",
+  "patient_id": "MF-1011",
+  "patient_name": "Divya Iyer",
+  "age": 38,
+  "sex": "F",
+  "date": "2025-04-25",
+  "date_text": "25-Apr-2025",
+  "bbox_date": [
+    1313,
+    333,
+    1529,
+    368
+  ],
+  "lab": "CarePoint Pathology Lab",
+  "template": "B",
+  "variant": "hard_scan",
+  "image": "R0093.jpg",
+  "fields": [
+    {
+      "code": "TRIGLYCERIDES",
+      "name": "Triglycerides",
+      "value": "115",
+      "unit": "mg/dL",
+      "ref": "< 150",
+      "flag": "",
+      "bbox_value": [
+        708,
+        510,
+        773,
+        536
+      ],
+      "bbox_row": [
+        118,
+        501,
+        1382,
+        551
+      ]
+    },
+    {
+      "code": "SGPT",
+      "name": "SGPT",
+      "value": "64",
+      "unit": "U/L",
+      "ref": "7 - 56",
+      "flag": "H",
+      "bbox_value": [
+        707,
+        574,
+        750,
+        599
+      ],
+      "bbox_row": [
+        117,
+        566,
+        1375,
+        611
+      ]
+    },
+    {
+      "code": "FBS",
+      "name": "FBS",
+      "value": "232",
+      "unit": "mg/dL",
+      "ref": "70 - 100",
+      "flag": "H",
+      "bbox_value": [
+        706,
+        638,
+        772,
+        664
+      ],
+      "bbox_row": [
+        116,
+        629,
+        1418,
+        679
+      ]
+    },
+    {
+      "code": "TSH",
+      "name": "TSH",
+      "value": "3.41",
+      "unit": "uIU/mL",
+      "ref": "0.4 - 4.0",
+      "flag": "",
+      "bbox_value": [
+        705,
+        702,
+        782,
+        728
+      ],
+      "bbox_row": [
+        115,
+        694,
+        1417,
+        739
+      ]
+    },
+    {
+      "code": "HBA1C",
+      "name": "HbA1c",
+      "value": "6.0",
+      "unit": "%",
+      "ref": "4.0 - 5.6",
+      "flag": "H",
+      "bbox_value": [
+        705,
+        766,
+        759,
+        792
+      ],
+      "bbox_row": [
+        115,
+        757,
+        1416,
+        800
+      ]
+    },
+    {
+      "code": "PLATELETS",
+      "name": "Platelets",
+      "value": "1.03",
+      "unit": "lakh/uL",
+      "ref": "1.5 - 4.5",
+      "flag": "L",
+      "bbox_value": [
+        704,
+        830,
+        780,
+        856
+      ],
+      "bbox_row": [
+        114,
+        821,
+        1415,
+        867
+      ]
+    }
+  ],
+  "lines": [
+    "CarePoint Pathology Lab",
+    "Department of Laboratory Medicine",
+    "Patient Name: Divya Iyer",
+    "Patient ID: MF-1011",
+    "Age/Sex: 38 Y / F",
+    "Collection Date : 25-Apr-2025",
+    "Test Result Flag Unit Reference Range",
+    "Triglycerides 115 mg/dL < 150",
+    "SGPT 64 H U/L 7 - 56",
+    "FBS 232 H mg/dL 70 - 100",
+    "TSH 3.41 uIU/mL 0.4 - 4.0",
+    "HbA1c 6.0 H % 4.0 - 5.6",
+    "Platelets 1.03 L lakh/uL 1.5 - 4.5",
+    "This is a computer generated report. Results relate to the sample tested.",
+    "SYNTHETIC TEST DOCUMENT - NOT A REAL PATIENT"
+  ],
+  "pair_group": "MF-1011-2025-04-25-CarePoint Pathology Lab"
+}
